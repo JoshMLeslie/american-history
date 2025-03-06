@@ -1,0 +1,3656 @@
+[
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1995,
+		"Value": "0.4274"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1996,
+		"Value": "0.4345"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1997,
+		"Value": "0.4088"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1998,
+		"Value": "0.3934"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1999,
+		"Value": "0.3791"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2000,
+		"Value": "0.3657"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2001,
+		"Value": "0.3611"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2002,
+		"Value": "0.3464"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2003,
+		"Value": "0.3485"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2004,
+		"Value": "0.3525"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2005,
+		"Value": "0.3534"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2006,
+		"Value": "0.3539"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2007,
+		"Value": "0.3639"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2008,
+		"Value": "0.3312"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2009,
+		"Value": "0.3283"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2010,
+		"Value": "0.3253"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2011,
+		"Value": "0.3159"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2012,
+		"Value": "0.3067"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2013,
+		"Value": "0.303"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2014,
+		"Value": "0.3049"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2015,
+		"Value": "0.3117"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2016,
+		"Value": "0.3088"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2017,
+		"Value": "0.3103"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2018,
+		"Value": "0.3087"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2019,
+		"Value": "0.3014"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2020,
+		"Value": "0.3019"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2021,
+		"Value": "0.3067"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2022,
+		"Value": "0.3035"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2023,
+		"Value": "0.2988"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1995,
+		"Value": "0.0343"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1996,
+		"Value": "0.0341"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1997,
+		"Value": "0.0401"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1998,
+		"Value": "0.0448"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1999,
+		"Value": "0.0519"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2000,
+		"Value": "0.055"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2001,
+		"Value": "0.0573"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2002,
+		"Value": "0.0613"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2003,
+		"Value": "0.0578"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2004,
+		"Value": "0.0546"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2005,
+		"Value": "0.0526"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2006,
+		"Value": "0.0501"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2007,
+		"Value": "0.048"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2008,
+		"Value": "0.0486"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2009,
+		"Value": "0.0485"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2010,
+		"Value": "0.0477"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2011,
+		"Value": "0.0442"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2012,
+		"Value": "0.0462"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2013,
+		"Value": "0.0467"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2014,
+		"Value": "0.048"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2015,
+		"Value": "0.049"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2016,
+		"Value": "0.05"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2017,
+		"Value": "0.0493"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2018,
+		"Value": "0.0499"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2019,
+		"Value": "0.0511"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2020,
+		"Value": "0.0516"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2021,
+		"Value": "0.0511"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2022,
+		"Value": "0.051"
+	},
+	{
+		"Country": "East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2023,
+		"Value": "0.0518"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1995,
+		"Value": "0.2463"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1996,
+		"Value": "0.2398"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1997,
+		"Value": "0.2395"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1998,
+		"Value": "0.241"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1999,
+		"Value": "0.2416"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2000,
+		"Value": "0.2408"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2001,
+		"Value": "0.2427"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2002,
+		"Value": "0.2436"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2003,
+		"Value": "0.245"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2004,
+		"Value": "0.2449"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2005,
+		"Value": "0.2418"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2006,
+		"Value": "0.2458"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2007,
+		"Value": "0.2479"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2008,
+		"Value": "0.2461"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2009,
+		"Value": "0.2433"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2010,
+		"Value": "0.243"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2011,
+		"Value": "0.2462"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2012,
+		"Value": "0.2486"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2013,
+		"Value": "0.248"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2014,
+		"Value": "0.2518"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2015,
+		"Value": "0.2625"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2016,
+		"Value": "0.2709"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2017,
+		"Value": "0.2744"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2018,
+		"Value": "0.2764"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2019,
+		"Value": "0.2763"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2020,
+		"Value": "0.277"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2021,
+		"Value": "0.2808"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2022,
+		"Value": "0.2833"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2023,
+		"Value": "0.2819"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1995,
+		"Value": "0.0271"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1996,
+		"Value": "0.0278"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1997,
+		"Value": "0.0247"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1998,
+		"Value": "0.0255"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1999,
+		"Value": "0.0242"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2000,
+		"Value": "0.0236"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2001,
+		"Value": "0.0221"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2002,
+		"Value": "0.0266"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2003,
+		"Value": "0.0264"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2004,
+		"Value": "0.0278"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2005,
+		"Value": "0.0287"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2006,
+		"Value": "0.0246"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2007,
+		"Value": "0.0276"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2008,
+		"Value": "0.0288"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2009,
+		"Value": "0.0282"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2010,
+		"Value": "0.0248"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2011,
+		"Value": "0.0245"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2012,
+		"Value": "0.0242"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2013,
+		"Value": "0.0278"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2014,
+		"Value": "0.027"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2015,
+		"Value": "0.0258"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2016,
+		"Value": "0.0266"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2017,
+		"Value": "0.0224"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2018,
+		"Value": "0.0266"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2019,
+		"Value": "0.0258"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2020,
+		"Value": "0.0263"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2021,
+		"Value": "0.0269"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2022,
+		"Value": "0.0219"
+	},
+	{
+		"Country": "Eastern Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2023,
+		"Value": "0.0215"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1995,
+		"Value": "0.2979"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1996,
+		"Value": "0.3026"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1997,
+		"Value": "0.3054"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1998,
+		"Value": "0.3091"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1999,
+		"Value": "0.3142"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2000,
+		"Value": "0.3125"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2001,
+		"Value": "0.3137"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2002,
+		"Value": "0.3124"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2003,
+		"Value": "0.3097"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2004,
+		"Value": "0.3096"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2005,
+		"Value": "0.3101"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2006,
+		"Value": "0.3075"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2007,
+		"Value": "0.3049"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2008,
+		"Value": "0.312"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2009,
+		"Value": "0.2984"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2010,
+		"Value": "0.2948"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2011,
+		"Value": "0.2981"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2012,
+		"Value": "0.2994"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2013,
+		"Value": "0.3068"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2014,
+		"Value": "0.3119"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2015,
+		"Value": "0.3171"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2016,
+		"Value": "0.3138"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2017,
+		"Value": "0.3059"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2018,
+		"Value": "0.3088"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2019,
+		"Value": "0.3075"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2020,
+		"Value": "0.3094"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2021,
+		"Value": "0.3099"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2022,
+		"Value": "0.3147"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2023,
+		"Value": "0.3165"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1995,
+		"Value": "0.0279"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1996,
+		"Value": "0.0286"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1997,
+		"Value": "0.0296"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1998,
+		"Value": "0.0294"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1999,
+		"Value": "0.0281"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2000,
+		"Value": "0.0295"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2001,
+		"Value": "0.0301"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2002,
+		"Value": "0.0303"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2003,
+		"Value": "0.0308"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2004,
+		"Value": "0.0311"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2005,
+		"Value": "0.0308"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2006,
+		"Value": "0.0311"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2007,
+		"Value": "0.031"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2008,
+		"Value": "0.0289"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2009,
+		"Value": "0.029"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2010,
+		"Value": "0.0282"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2011,
+		"Value": "0.027"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2012,
+		"Value": "0.0287"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2013,
+		"Value": "0.0277"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2014,
+		"Value": "0.0274"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2015,
+		"Value": "0.0264"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2016,
+		"Value": "0.0269"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2017,
+		"Value": "0.0284"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2018,
+		"Value": "0.0274"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2019,
+		"Value": "0.0271"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2020,
+		"Value": "0.0256"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2021,
+		"Value": "0.0244"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2022,
+		"Value": "0.023"
+	},
+	{
+		"Country": "North Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2023,
+		"Value": "0.0213"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1995,
+		"Value": "0.2837"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1996,
+		"Value": "0.2894"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1997,
+		"Value": "0.2954"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1998,
+		"Value": "0.306"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1999,
+		"Value": "0.3094"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2000,
+		"Value": "0.3152"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2001,
+		"Value": "0.3147"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2002,
+		"Value": "0.3084"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2003,
+		"Value": "0.3066"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2004,
+		"Value": "0.3144"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2005,
+		"Value": "0.3216"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2006,
+		"Value": "0.3247"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2007,
+		"Value": "0.3259"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2008,
+		"Value": "0.3319"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2009,
+		"Value": "0.3242"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2010,
+		"Value": "0.3456"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2011,
+		"Value": "0.3421"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2012,
+		"Value": "0.3531"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2013,
+		"Value": "0.3486"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2014,
+		"Value": "0.3552"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2015,
+		"Value": "0.3547"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2016,
+		"Value": "0.3492"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2017,
+		"Value": "0.3429"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2018,
+		"Value": "0.3408"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2019,
+		"Value": "0.3422"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2020,
+		"Value": "0.3353"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2021,
+		"Value": "0.3445"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2022,
+		"Value": "0.3491"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2023,
+		"Value": "0.3487"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1995,
+		"Value": "0.0246"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1996,
+		"Value": "0.0229"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1997,
+		"Value": "0.0204"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1998,
+		"Value": "0.0197"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1999,
+		"Value": "0.0212"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2000,
+		"Value": "0.0217"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2001,
+		"Value": "0.0231"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2002,
+		"Value": "0.0236"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2003,
+		"Value": "0.0227"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2004,
+		"Value": "0.0218"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2005,
+		"Value": "0.0218"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2006,
+		"Value": "0.0208"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2007,
+		"Value": "0.018"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2008,
+		"Value": "0.0149"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2009,
+		"Value": "0.0134"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2010,
+		"Value": "0.0127"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2011,
+		"Value": "0.0129"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2012,
+		"Value": "0.0128"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2013,
+		"Value": "0.0134"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2014,
+		"Value": "0.0144"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2015,
+		"Value": "0.0149"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2016,
+		"Value": "0.0154"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2017,
+		"Value": "0.0179"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2018,
+		"Value": "0.0183"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2019,
+		"Value": "0.0186"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2020,
+		"Value": "0.0183"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2021,
+		"Value": "0.0171"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2022,
+		"Value": "0.0163"
+	},
+	{
+		"Country": "North America",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2023,
+		"Value": "0.0164"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1995,
+		"Value": "0.249"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1996,
+		"Value": "0.2681"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1997,
+		"Value": "0.2564"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1998,
+		"Value": "0.2538"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1999,
+		"Value": "0.26"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2000,
+		"Value": "0.2757"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2001,
+		"Value": "0.2815"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2002,
+		"Value": "0.2718"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2003,
+		"Value": "0.2714"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2004,
+		"Value": "0.2724"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2005,
+		"Value": "0.2676"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2006,
+		"Value": "0.2814"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2007,
+		"Value": "0.2863"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2008,
+		"Value": "0.3196"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2009,
+		"Value": "0.2914"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2010,
+		"Value": "0.2718"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2011,
+		"Value": "0.2892"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2012,
+		"Value": "0.2753"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2013,
+		"Value": "0.2866"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2014,
+		"Value": "0.2867"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2015,
+		"Value": "0.2872"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2016,
+		"Value": "0.2882"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2017,
+		"Value": "0.29"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2018,
+		"Value": "0.2984"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2019,
+		"Value": "0.2976"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2020,
+		"Value": "0.3203"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2021,
+		"Value": "0.3315"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2022,
+		"Value": "0.3079"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2023,
+		"Value": "0.3373"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1995,
+		"Value": "0.0441"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1996,
+		"Value": "0.0414"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1997,
+		"Value": "0.0434"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1998,
+		"Value": "0.0434"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1999,
+		"Value": "0.0424"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2000,
+		"Value": "0.0403"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2001,
+		"Value": "0.039"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2002,
+		"Value": "0.04"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2003,
+		"Value": "0.0393"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2004,
+		"Value": "0.0385"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2005,
+		"Value": "0.0389"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2006,
+		"Value": "0.0358"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2007,
+		"Value": "0.035"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2008,
+		"Value": "0.0314"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2009,
+		"Value": "0.0339"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2010,
+		"Value": "0.0359"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2011,
+		"Value": "0.0369"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2012,
+		"Value": "0.038"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2013,
+		"Value": "0.0375"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2014,
+		"Value": "0.0375"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2015,
+		"Value": "0.0382"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2016,
+		"Value": "0.0388"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2017,
+		"Value": "0.039"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2018,
+		"Value": "0.0389"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2019,
+		"Value": "0.0387"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2020,
+		"Value": "0.035"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2021,
+		"Value": "0.035"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2022,
+		"Value": "0.0334"
+	},
+	{
+		"Country": "Russia & Central Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2023,
+		"Value": "0.0323"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1995,
+		"Value": "0.3427"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1996,
+		"Value": "0.3368"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1997,
+		"Value": "0.3306"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1998,
+		"Value": "0.3089"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1999,
+		"Value": "0.3049"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2000,
+		"Value": "0.2994"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2001,
+		"Value": "0.3013"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2002,
+		"Value": "0.3003"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2003,
+		"Value": "0.3028"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2004,
+		"Value": "0.2954"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2005,
+		"Value": "0.296"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2006,
+		"Value": "0.2948"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2007,
+		"Value": "0.302"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2008,
+		"Value": "0.3165"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2009,
+		"Value": "0.296"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2010,
+		"Value": "0.3155"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2011,
+		"Value": "0.3181"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2012,
+		"Value": "0.3147"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2013,
+		"Value": "0.3152"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2014,
+		"Value": "0.317"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2015,
+		"Value": "0.317"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2016,
+		"Value": "0.3212"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2017,
+		"Value": "0.3221"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2018,
+		"Value": "0.3212"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2019,
+		"Value": "0.3197"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2020,
+		"Value": "0.3173"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2021,
+		"Value": "0.329"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2022,
+		"Value": "0.3282"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2023,
+		"Value": "0.3223"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1995,
+		"Value": "0.0434"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1996,
+		"Value": "0.0445"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1997,
+		"Value": "0.0452"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1998,
+		"Value": "0.0504"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1999,
+		"Value": "0.0509"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2000,
+		"Value": "0.0515"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2001,
+		"Value": "0.0512"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2002,
+		"Value": "0.0514"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2003,
+		"Value": "0.0505"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2004,
+		"Value": "0.0529"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2005,
+		"Value": "0.0539"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2006,
+		"Value": "0.0542"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2007,
+		"Value": "0.0538"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2008,
+		"Value": "0.0509"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2009,
+		"Value": "0.0531"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2010,
+		"Value": "0.0486"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2011,
+		"Value": "0.0473"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2012,
+		"Value": "0.0472"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2013,
+		"Value": "0.047"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2014,
+		"Value": "0.0469"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2015,
+		"Value": "0.0462"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2016,
+		"Value": "0.0448"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2017,
+		"Value": "0.0438"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2018,
+		"Value": "0.0451"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2019,
+		"Value": "0.0456"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2020,
+		"Value": "0.0459"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2021,
+		"Value": "0.0445"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2022,
+		"Value": "0.0434"
+	},
+	{
+		"Country": "South & South-East Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2023,
+		"Value": "0.044"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1995,
+		"Value": "0.4685"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1996,
+		"Value": "0.4833"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1997,
+		"Value": "0.4792"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1998,
+		"Value": "0.4778"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1999,
+		"Value": "0.5073"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2000,
+		"Value": "0.4954"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2001,
+		"Value": "0.5091"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2002,
+		"Value": "0.5044000000000001"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2003,
+		"Value": "0.5057"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2004,
+		"Value": "0.4965"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2005,
+		"Value": "0.5178"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2006,
+		"Value": "0.524"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2007,
+		"Value": "0.5165000000000001"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2008,
+		"Value": "0.4904"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2009,
+		"Value": "0.5198"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2010,
+		"Value": "0.5598000000000001"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2011,
+		"Value": "0.5699000000000001"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2012,
+		"Value": "0.5614"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2013,
+		"Value": "0.5585"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2014,
+		"Value": "0.5493"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2015,
+		"Value": "0.5477000000000001"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2016,
+		"Value": "0.5332"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2017,
+		"Value": "0.5453"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2018,
+		"Value": "0.5456"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2019,
+		"Value": "0.5451"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2020,
+		"Value": "0.546"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2021,
+		"Value": "0.5452"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2022,
+		"Value": "0.5451"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2023,
+		"Value": "0.5448000000000001"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1995,
+		"Value": "-0.0266"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1996,
+		"Value": "-0.0281"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1997,
+		"Value": "-0.0238"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1998,
+		"Value": "-0.019"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1999,
+		"Value": "-0.0107"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2000,
+		"Value": "-0.0071"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2001,
+		"Value": "-0.0019"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2002,
+		"Value": "-0.0022"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2003,
+		"Value": "-0.0003"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2004,
+		"Value": "0.0024"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2005,
+		"Value": "0.0015"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2006,
+		"Value": "-0.0051"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2007,
+		"Value": "-0.0245"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2008,
+		"Value": "-0.0463"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2009,
+		"Value": "-0.0406"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2010,
+		"Value": "-0.0348"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2011,
+		"Value": "-0.0336"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2012,
+		"Value": "-0.0298"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2013,
+		"Value": "-0.0204"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2014,
+		"Value": "-0.0147"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2015,
+		"Value": "-0.0149"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2016,
+		"Value": "-0.0143"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2017,
+		"Value": "-0.0113"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2018,
+		"Value": "-0.0122"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2019,
+		"Value": "-0.0121"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2020,
+		"Value": "-0.0121"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2021,
+		"Value": "-0.0121"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2022,
+		"Value": "-0.012"
+	},
+	{
+		"Country": "South Africa",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2023,
+		"Value": "-0.012"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1995,
+		"Value": "0.4337"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1996,
+		"Value": "0.4368"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1997,
+		"Value": "0.4089"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1998,
+		"Value": "0.4073"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1999,
+		"Value": "0.3958"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2000,
+		"Value": "0.4132"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2001,
+		"Value": "0.396"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2002,
+		"Value": "0.3691"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2003,
+		"Value": "0.3667"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2004,
+		"Value": "0.3615"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2005,
+		"Value": "0.352"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2006,
+		"Value": "0.3378"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2007,
+		"Value": "0.3376"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2008,
+		"Value": "0.3646"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2009,
+		"Value": "0.3385"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2010,
+		"Value": "0.3222"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2011,
+		"Value": "0.3398"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2012,
+		"Value": "0.3254"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2013,
+		"Value": "0.3248"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2014,
+		"Value": "0.3249"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2015,
+		"Value": "0.3315"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2016,
+		"Value": "0.3367"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2017,
+		"Value": "0.3431"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2018,
+		"Value": "0.3498"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2019,
+		"Value": "0.345"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2020,
+		"Value": "0.3566"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2021,
+		"Value": "0.3715"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2022,
+		"Value": "0.3535"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2023,
+		"Value": "0.3652"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1995,
+		"Value": "0.0182"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1996,
+		"Value": "0.0183"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1997,
+		"Value": "0.0209"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1998,
+		"Value": "0.0235"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1999,
+		"Value": "0.0242"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2000,
+		"Value": "0.0207"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2001,
+		"Value": "0.0212"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2002,
+		"Value": "0.0245"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2003,
+		"Value": "0.0228"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2004,
+		"Value": "0.0241"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2005,
+		"Value": "0.0248"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2006,
+		"Value": "0.0238"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2007,
+		"Value": "0.0249"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2008,
+		"Value": "0.0222"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2009,
+		"Value": "0.0255"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2010,
+		"Value": "0.0279"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2011,
+		"Value": "0.0253"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2012,
+		"Value": "0.0275"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2013,
+		"Value": "0.0277"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2014,
+		"Value": "0.0283"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2015,
+		"Value": "0.0285"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2016,
+		"Value": "0.0288"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2017,
+		"Value": "0.0286"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2018,
+		"Value": "0.0278"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2019,
+		"Value": "0.0283"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2020,
+		"Value": "0.0247"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2021,
+		"Value": "0.0237"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2022,
+		"Value": "0.0232"
+	},
+	{
+		"Country": "West Asia",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2023,
+		"Value": "0.0222"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1995,
+		"Value": "0.2156"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1996,
+		"Value": "0.2247"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1997,
+		"Value": "0.2301"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1998,
+		"Value": "0.2356"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 1999,
+		"Value": "0.2391"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2000,
+		"Value": "0.2404"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2001,
+		"Value": "0.2343"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2002,
+		"Value": "0.2335"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2003,
+		"Value": "0.2281"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2004,
+		"Value": "0.2277"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2005,
+		"Value": "0.2303"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2006,
+		"Value": "0.2312"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2007,
+		"Value": "0.2347"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2008,
+		"Value": "0.2293"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2009,
+		"Value": "0.2261"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2010,
+		"Value": "0.2324"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2011,
+		"Value": "0.2332"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2012,
+		"Value": "0.2358"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2013,
+		"Value": "0.2405"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2014,
+		"Value": "0.2514"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2015,
+		"Value": "0.243"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2016,
+		"Value": "0.2422"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2017,
+		"Value": "0.2442"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2018,
+		"Value": "0.2464"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2019,
+		"Value": "0.2446"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2020,
+		"Value": "0.2424"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2021,
+		"Value": "0.2472"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2022,
+		"Value": "0.2471"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Top 1%",
+		"Percentile": "p99p100",
+		"Year": 2023,
+		"Value": "0.2482"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1995,
+		"Value": "0.0605"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1996,
+		"Value": "0.0581"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1997,
+		"Value": "0.0555"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1998,
+		"Value": "0.0539"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 1999,
+		"Value": "0.0534"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2000,
+		"Value": "0.0525"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2001,
+		"Value": "0.0529"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2002,
+		"Value": "0.0515"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2003,
+		"Value": "0.0522"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2004,
+		"Value": "0.0538"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2005,
+		"Value": "0.0524"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2006,
+		"Value": "0.0501"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2007,
+		"Value": "0.0482"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2008,
+		"Value": "0.0477"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2009,
+		"Value": "0.0433"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2010,
+		"Value": "0.0417"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2011,
+		"Value": "0.0399"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2012,
+		"Value": "0.0394"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2013,
+		"Value": "0.0391"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2014,
+		"Value": "0.0397"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2015,
+		"Value": "0.0416"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2016,
+		"Value": "0.0421"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2017,
+		"Value": "0.0419"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2018,
+		"Value": "0.0427"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2019,
+		"Value": "0.0424"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2020,
+		"Value": "0.0426"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2021,
+		"Value": "0.0422"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2022,
+		"Value": "0.0422"
+	},
+	{
+		"Country": "Western Europe",
+		"Percentile Label": "Bottom 50%",
+		"Percentile": "p0p50",
+		"Year": 2023,
+		"Value": "0.0416"
+	}
+ ]
