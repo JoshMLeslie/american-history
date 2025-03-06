@@ -8,7 +8,7 @@
     "selection": []
   },
   "columns": {
-    "Life expectancy - Sex: all - Age: 0 - Variant: estimates": {
+    "Life expectancy": {
       "titleShort": "Life Expectancy, age 0",
       "titleLong": "Life Expectancy, age 0 - UN WPP",
       "descriptionShort": "Period life expectancy for individuals who have reached age 0. Estimates are expressed as the expected age at death, not as years left to live.",
