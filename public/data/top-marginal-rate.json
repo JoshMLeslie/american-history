@@ -1,0 +1,662 @@
+[
+	{
+			"year": 1913,
+			"regularRate": 1,
+			"surtaxRate": 6,
+			"totalTopRate": 7
+	},
+	{
+			"year": 1914,
+			"regularRate": 1,
+			"surtaxRate": 6,
+			"totalTopRate": 7
+	},
+	{
+			"year": 1915,
+			"regularRate": 1,
+			"surtaxRate": 6,
+			"totalTopRate": 7
+	},
+	{
+			"year": 1916,
+			"regularRate": 2,
+			"surtaxRate": 13,
+			"totalTopRate": 15
+	},
+	{
+			"year": 1917,
+			"regularRate": 4,
+			"surtaxRate": 63,
+			"totalTopRate": 67
+	},
+	{
+			"year": 1918,
+			"regularRate": 8,
+			"surtaxRate": 65,
+			"totalTopRate": 73
+	},
+	{
+			"year": 1919,
+			"regularRate": 8,
+			"surtaxRate": 65,
+			"totalTopRate": 73
+	},
+	{
+			"year": 1920,
+			"regularRate": 8,
+			"surtaxRate": 65,
+			"totalTopRate": 73
+	},
+	{
+			"year": 1921,
+			"regularRate": 8,
+			"surtaxRate": 65,
+			"totalTopRate": 73
+	},
+	{
+			"year": 1922,
+			"regularRate": 8,
+			"surtaxRate": 50,
+			"totalTopRate": 58
+	},
+	{
+			"year": 1923,
+			"regularRate": 8,
+			"surtaxRate": 50,
+			"totalTopRate": 58
+	},
+	{
+			"year": 1924,
+			"regularRate": 6,
+			"surtaxRate": 40,
+			"totalTopRate": 46
+	},
+	{
+			"year": 1925,
+			"regularRate": 5,
+			"surtaxRate": 20,
+			"totalTopRate": 25
+	},
+	{
+			"year": 1926,
+			"regularRate": 5,
+			"surtaxRate": 20,
+			"totalTopRate": 25
+	},
+	{
+			"year": 1927,
+			"regularRate": 5,
+			"surtaxRate": 20,
+			"totalTopRate": 25
+	},
+	{
+			"year": 1928,
+			"regularRate": 5,
+			"surtaxRate": 20,
+			"totalTopRate": 25
+	},
+	{
+			"year": 1929,
+			"regularRate": 5,
+			"surtaxRate": 20,
+			"totalTopRate": 25
+	},
+	{
+			"year": 1930,
+			"regularRate": 5,
+			"surtaxRate": 20,
+			"totalTopRate": 25
+	},
+	{
+			"year": 1931,
+			"regularRate": 5,
+			"surtaxRate": 20,
+			"totalTopRate": 25
+	},
+	{
+			"year": 1932,
+			"regularRate": 8,
+			"surtaxRate": 55,
+			"totalTopRate": 63
+	},
+	{
+			"year": 1933,
+			"regularRate": 8,
+			"surtaxRate": 55,
+			"totalTopRate": 63
+	},
+	{
+			"year": 1934,
+			"regularRate": 4,
+			"surtaxRate": 59,
+			"totalTopRate": 63
+	},
+	{
+			"year": 1935,
+			"regularRate": 4,
+			"surtaxRate": 59,
+			"totalTopRate": 63
+	},
+	{
+			"year": 1936,
+			"regularRate": 4,
+			"surtaxRate": 75,
+			"totalTopRate": 79
+	},
+	{
+			"year": 1937,
+			"regularRate": 4,
+			"surtaxRate": 75,
+			"totalTopRate": 79
+	},
+	{
+			"year": 1938,
+			"regularRate": 4,
+			"surtaxRate": 75,
+			"totalTopRate": 79
+	},
+	{
+			"year": 1939,
+			"regularRate": 4,
+			"surtaxRate": 75,
+			"totalTopRate": 79
+	},
+	{
+			"year": 1940,
+			"regularRate": 4,
+			"surtaxRate": 75,
+			"totalTopRate": 79
+	},
+	{
+			"year": 1941,
+			"regularRate": 4,
+			"surtaxRate": 77,
+			"totalTopRate": 81
+	},
+	{
+			"year": 1942,
+			"regularRate": 6,
+			"surtaxRate": 82,
+			"totalTopRate": 88
+	},
+	{
+			"year": 1943,
+			"regularRate": 6,
+			"surtaxRate": 82,
+			"totalTopRate": 88
+	},
+	{
+			"year": 1944,
+			"regularRate": 3,
+			"surtaxRate": 91,
+			"totalTopRate": 94
+	},
+	{
+			"year": 1945,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1946,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1947,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1948,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1949,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1950,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1951,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1952,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1953,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1954,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1955,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1956,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1957,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1958,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1959,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1960,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1961,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1962,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1963,
+			"regularRate": 3,
+			"surtaxRate": 88,
+			"totalTopRate": 91
+	},
+	{
+			"year": 1964,
+			"regularRate": 3,
+			"surtaxRate": 74,
+			"totalTopRate": 77
+	},
+	{
+			"year": 1965,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1966,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1967,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1968,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1969,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1970,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1971,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1972,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1973,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1974,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1975,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1976,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1977,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1978,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1979,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1980,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1981,
+			"regularRate": 70,
+			"surtaxRate": 0,
+			"totalTopRate": 70
+	},
+	{
+			"year": 1982,
+			"regularRate": 50,
+			"surtaxRate": 0,
+			"totalTopRate": 50
+	},
+	{
+			"year": 1983,
+			"regularRate": 50,
+			"surtaxRate": 0,
+			"totalTopRate": 50
+	},
+	{
+			"year": 1984,
+			"regularRate": 50,
+			"surtaxRate": 0,
+			"totalTopRate": 50
+	},
+	{
+			"year": 1985,
+			"regularRate": 50,
+			"surtaxRate": 0,
+			"totalTopRate": 50
+	},
+	{
+			"year": 1986,
+			"regularRate": 50,
+			"surtaxRate": 0,
+			"totalTopRate": 50
+	},
+	{
+			"year": 1987,
+			"regularRate": 38.5,
+			"surtaxRate": 0,
+			"totalTopRate": 38.5
+	},
+	{
+			"year": 1988,
+			"regularRate": 33,
+			"surtaxRate": 0,
+			"totalTopRate": 33
+	},
+	{
+			"year": 1989,
+			"regularRate": 33,
+			"surtaxRate": 0,
+			"totalTopRate": 33
+	},
+	{
+			"year": 1990,
+			"regularRate": 33,
+			"surtaxRate": 0,
+			"totalTopRate": 33
+	},
+	{
+			"year": 1991,
+			"regularRate": 31,
+			"surtaxRate": 0,
+			"totalTopRate": 31
+	},
+	{
+			"year": 1992,
+			"regularRate": 31,
+			"surtaxRate": 0,
+			"totalTopRate": 31
+	},
+	{
+			"year": 1993,
+			"regularRate": 39.6,
+			"surtaxRate": 0,
+			"totalTopRate": 39.6
+	},
+	{
+			"year": 1994,
+			"regularRate": 39.6,
+			"surtaxRate": 0,
+			"totalTopRate": 39.6
+	},
+	{
+			"year": 1995,
+			"regularRate": 39.6,
+			"surtaxRate": 0,
+			"totalTopRate": 39.6
+	},
+	{
+			"year": 1996,
+			"regularRate": 39.6,
+			"surtaxRate": 0,
+			"totalTopRate": 39.6
+	},
+	{
+			"year": 1997,
+			"regularRate": 39.6,
+			"surtaxRate": 0,
+			"totalTopRate": 39.6
+	},
+	{
+			"year": 1998,
+			"regularRate": 39.6,
+			"surtaxRate": 0,
+			"totalTopRate": 39.6
+	},
+	{
+			"year": 1999,
+			"regularRate": 39.6,
+			"surtaxRate": 0,
+			"totalTopRate": 39.6
+	},
+	{
+			"year": 2000,
+			"regularRate": 39.6,
+			"surtaxRate": 0,
+			"totalTopRate": 39.6
+	},
+	{
+			"year": 2001,
+			"regularRate": 39.1,
+			"surtaxRate": 0,
+			"totalTopRate": 39.1
+	},
+	{
+			"year": 2002,
+			"regularRate": 38.6,
+			"surtaxRate": 0,
+			"totalTopRate": 38.6
+	},
+	{
+			"year": 2003,
+			"regularRate": 35,
+			"surtaxRate": 0,
+			"totalTopRate": 35
+	},
+	{
+			"year": 2004,
+			"regularRate": 35,
+			"surtaxRate": 0,
+			"totalTopRate": 35
+	},
+	{
+			"year": 2005,
+			"regularRate": 35,
+			"surtaxRate": 0,
+			"totalTopRate": 35
+	},
+	{
+			"year": 2006,
+			"regularRate": 35,
+			"surtaxRate": 0,
+			"totalTopRate": 35
+	},
+	{
+			"year": 2007,
+			"regularRate": 35,
+			"surtaxRate": 0,
+			"totalTopRate": 35
+	},
+	{
+			"year": 2008,
+			"regularRate": 35,
+			"surtaxRate": 0,
+			"totalTopRate": 35
+	},
+	{
+			"year": 2009,
+			"regularRate": 35,
+			"surtaxRate": 0,
+			"totalTopRate": 35
+	},
+	{
+			"year": 2010,
+			"regularRate": 35,
+			"surtaxRate": 0,
+			"totalTopRate": 35
+	},
+	{
+			"year": 2011,
+			"regularRate": 35,
+			"surtaxRate": 0,
+			"totalTopRate": 35
+	},
+	{
+			"year": 2012,
+			"regularRate": 35,
+			"surtaxRate": 0,
+			"totalTopRate": 35
+	},
+	{
+			"year": 2013,
+			"regularRate": 39.6,
+			"surtaxRate": 0,
+			"totalTopRate": 39.6
+	},
+	{
+			"year": 2014,
+			"regularRate": 39.6,
+			"surtaxRate": 0,
+			"totalTopRate": 39.6
+	},
+	{
+			"year": 2015,
+			"regularRate": 39.6,
+			"surtaxRate": 0,
+			"totalTopRate": 39.6
+	},
+	{
+			"year": 2016,
+			"regularRate": 39.6,
+			"surtaxRate": 0,
+			"totalTopRate": 39.6
+	},
+	{
+			"year": 2017,
+			"regularRate": 39.6,
+			"surtaxRate": 0,
+			"totalTopRate": 39.6
+	},
+	{
+			"year": 2018,
+			"regularRate": 37,
+			"surtaxRate": 0,
+			"totalTopRate": 37
+	},
+	{
+			"year": 2019,
+			"regularRate": 37,
+			"surtaxRate": 0,
+			"totalTopRate": 37
+	},
+	{
+			"year": 2020,
+			"regularRate": 37,
+			"surtaxRate": 0,
+			"totalTopRate": 37
+	},
+	{
+			"year": 2021,
+			"regularRate": 37,
+			"surtaxRate": 0,
+			"totalTopRate": 37
+	},
+	{
+			"year": 2022,
+			"regularRate": 37,
+			"surtaxRate": 0,
+			"totalTopRate": 37
+	}
+]
