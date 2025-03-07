@@ -1,19 +1,13 @@
 import { useState } from 'react';
 import './App.scss';
-import cc from './data/chart-map.json';
+import ChartComponent from './ChartComponent';
+import cc from './data/chart-cache';
+import { ChartCache, SelectedChart } from './type/chart';
 
-type ChartCache = Record<SelectedChart['id'], SelectedChart>;
-const chartCache = cc as ChartCache;
-
-interface SelectedChart {
-	title: string;
-	description: string;
-	id: string;
-	data: any[];
-}
+const chartCache = await cc() as ChartCache;
 
 function App() {
-	const [selectedChart, setSelectedChart] = useState<null | SelectedChart>();
+	const [selectedChart, setSelectedChart] = useState<null | SelectedChart>(null);
 	const [showMoreBlurb, setShowMoreBlurb] = useState(false);
 	const toggleBlurb = () => setShowMoreBlurb(!showMoreBlurb);
 
@@ -31,7 +25,9 @@ function App() {
 				))}
 			</div>
 			<div id="chart-super-container">
-				<div id="selected-chart"></div>
+				<div id="selected-chart">
+					<ChartComponent selectedChart={selectedChart} />
+				</div>
 				<div
 					id="selected-chart-blurb"
 					className={showMoreBlurb ? 'expand' : ''}

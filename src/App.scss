@@ -48,8 +48,8 @@
 	}
 
 	#chart-blurb-actions {
-		display: grid;
-		grid-template: 100% / repeat(3, 1fr);
+		display: flex;
+		justify-content: space-between;
 		gap: 8px;
 		align-items: center;
 		margin-bottom: 8px;
@@ -60,7 +60,6 @@
 	}
 
 	button#chart-blurb-more {
-		grid-column: 2;
 		height: 48px;
 	}
 }
