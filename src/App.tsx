@@ -24,10 +24,11 @@ function App() {
 	return (
 		<>
 			<div id="chart-select-nav">
-				<button onClick={selectChart('one')}>Chart One</button>
-				<button onClick={selectChart('two')}>Chart Two</button>
-				<button onClick={selectChart('three')}>Chart Three</button>
-				<button onClick={selectChart('four')}>Chart Four</button>
+				{Object.values(chartCache).map((chartData) => (
+					<button key={chartData.id} onClick={selectChart(chartData.id)}>
+						{chartData.title}
+					</button>
+				))}
 			</div>
 			<div id="chart-super-container">
 				<div id="selected-chart"></div>
@@ -41,7 +42,7 @@ function App() {
 							{showMoreBlurb ? 'Less' : 'More'}
 						</button>
 					</div>
-					<div id="chart-blurb-content">{selectedChart?.description}</div>
+					<p id="chart-blurb-content">{selectedChart?.description}</p>
 				</div>
 			</div>
 		</>
