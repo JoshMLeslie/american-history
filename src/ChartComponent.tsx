@@ -1,9 +1,8 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useReducer } from 'react';
 import {
 	CartesianGrid,
 	Line,
 	LineChart,
-	ReferenceArea,
 	ResponsiveContainer,
 	Tooltip,
 	XAxis,
@@ -11,8 +10,7 @@ import {
 } from 'recharts';
 import { SelectedChart } from './type/chart';
 
-const initState = {
-	data: [],
+const CHART_DEFAULT = {
 	left: 'dataMin',
 	right: 'dataMax',
 	refAreaLeft: '',
@@ -22,76 +20,90 @@ const initState = {
 	animation: true,
 };
 
+enum CHART_ACTION_TYPE {
+	START = 'START',
+	SUCCESS = 'SUCCESS',
+	ERROR = 'ERROR',
+}
+
+interface ChartAction {
+	type: CHART_ACTION_TYPE;
+	payload?: null | SelectedChart['data'];
+	error?: string;
+}
+
+interface ChartComponentState {
+	data?: null | SelectedChart['data'];
+	loading: boolean;
+	error?: null | string;
+}
+
+const chartReducer = (state: ChartComponentState, action: ChartAction) => {
+	switch (action.type) {
+		case CHART_ACTION_TYPE.START:
+			return {...state, loading: true, error: null};
+		case CHART_ACTION_TYPE.SUCCESS:
+			return {...state, loading: false, data: action.payload};
+		case CHART_ACTION_TYPE.ERROR:
+			return {...state, loading: false, error: action.error};
+		default:
+			return state;
+	}
+};
+
 const ChartComponent: React.FC<{selectedChart: null | SelectedChart}> = ({
 	selectedChart,
 }) => {
-	const [state, setState] = useState({...initState, data: selectedChart?.data});
-
+	const [selectedState, dispatch] = useReducer(chartReducer, {
+		data: [],
+		loading: false,
+		error: null,
+	});
 	useEffect(() => {
 		if (!selectedChart) {
 			return;
 		}
-		setState({
-			...state,
-			data: selectedChart.data,
-		});
+
+		(async () => {
+			dispatch({type: CHART_ACTION_TYPE.START});
+			try {
+				const {data} = selectedChart;
+				const resolvedData = Array.isArray(data) ? data : await data;
+				dispatch({type: CHART_ACTION_TYPE.SUCCESS, payload: resolvedData});
+			} catch (error) {
+				dispatch({type: CHART_ACTION_TYPE.ERROR, error: error as string});
+				console.warn(error);
+			}
+		})();
 	}, [selectedChart?.id]);
 
-	const {
-		data,
-		left,
-		right,
-		refAreaLeft,
-		refAreaRight,
-		top,
-		bottom,
-	} = state;
-
+	if (!selectedChart) {
+		return <></>
+	}
 	return (
 		<ResponsiveContainer width="100%" height="100%">
-			<LineChart
-				width={800}
-				height={400}
-				data={data}
-				onMouseDown={(e) =>
-					setState((s) => ({...s, refAreaLeft: e.activeLabel!}))
-				}
-				onMouseMove={(e) =>
-					state.refAreaLeft &&
-					setState((s) => ({...s, refAreaRight: e.activeLabel!}))
-				}
-				// onMouseUp={zoom.bind(this)}
-			>
+			<LineChart width={800} height={400} data={selectedState.data as any[]}>
 				<CartesianGrid strokeDasharray="3 3" />
 				<XAxis
 					allowDataOverflow
-					dataKey="year"
-					domain={[left, right]}
+					dataKey={selectedChart.chartConfig.xDataKey}
+					domain={[CHART_DEFAULT.left, CHART_DEFAULT.right]}
 					type="number"
 				/>
 				<YAxis
 					allowDataOverflow
-					domain={[bottom, top]}
+					domain={[CHART_DEFAULT.bottom, CHART_DEFAULT.top]}
 					type="number"
 					yAxisId="1"
 				/>
 				<Line
 					yAxisId="1"
 					type="natural"
-					dataKey="totalTopRate"
+					dataKey={selectedChart.chartConfig.lineDataKey}
 					stroke="#8884d8"
 					animationDuration={300}
 				/>
 				<Tooltip />
-
-				{refAreaLeft && refAreaRight ? (
-					<ReferenceArea
-						yAxisId="1"
-						x1={refAreaLeft}
-						x2={refAreaRight}
-						strokeOpacity={0.3}
-					/>
-				) : null}
 			</LineChart>
 		</ResponsiveContainer>
 	);

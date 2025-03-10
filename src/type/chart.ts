@@ -4,5 +4,9 @@ export interface SelectedChart {
 	title: string;
 	description: string;
 	id: string;
-	data: any[];
+	data: Promise<any[]> | any[];
+	chartConfig: {
+		xDataKey: string;
+		lineDataKey: string;
+	}
 }
