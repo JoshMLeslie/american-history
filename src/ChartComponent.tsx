@@ -101,7 +101,7 @@ const ChartComponent: React.FC<{selectedChart: null | SelectedChart}> = ({
 					type="natural"
 					dataKey={selectedChart.chartConfig.lineDataKey}
 					stroke="#8884d8"
-					animationDuration={300}
+					animationDuration={500}
 				/>
 				<Tooltip />
 			</LineChart>

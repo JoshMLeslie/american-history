@@ -15,7 +15,7 @@ export default async () =>
 				lineDataKey: 'totalTopRate'
 			}
 		},
-		two: {
+		npw: {
 			title: 'Net Personal Wealth',
 			description: 'description for npw',
 			id: 'npw',
