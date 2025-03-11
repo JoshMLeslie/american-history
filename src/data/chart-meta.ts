@@ -15,17 +15,7 @@ export const chartMeta: ChartMeta = {
 		},
 		npw: {
 			title: 'Net Personal Wealth',
-			description: 'description for npw',
+			description: 'Net Personal Wealth per year as a percentage per region per percentile.',
 			id: 'npw',
-		},
-		three: {
-			title: 'Three',
-			description: 'description three',
-			id: 'three',
-		},
-		four: {
-			title: 'Four',
-			description: 'description four',
-			id: 'four',
 		},
 	};

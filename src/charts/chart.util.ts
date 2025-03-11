@@ -3,11 +3,11 @@ import { fetchJSON } from '../util';
 
 export const CHART_DEFAULT = {
 	left: 'dataMin',
-	right: 'dataMax',
+	right: 'dataMax+1',
 	refAreaLeft: '',
 	refAreaRight: '',
-	top: 'dataMax+1',
-	bottom: 'dataMin-1',
+	top: 'auto',
+	bottom: 'auto',
 	animation: true,
 };
 
@@ -33,12 +33,13 @@ export const loadChartData = async (
 	dispatch: React.Dispatch<ChartAction>
 ) => {
 	try {
-		const resolvedData = await fetchJSON(
+		dispatch({type: CHART_ACTION_TYPE.SUCCESS, payload: await fetchJSON(
 			url
-		);
-		dispatch({type: CHART_ACTION_TYPE.SUCCESS, payload: resolvedData});
+		)});
 	} catch (error) {
 		dispatch({type: CHART_ACTION_TYPE.ERROR, error: error as string});
 		console.warn(error);
 	}
 };
+
+export const genLineHSLColor = (index: number) => `hsl(${(index * 137) % 360}, 70%, 50%)`;
