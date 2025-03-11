@@ -6,6 +6,7 @@ import {
 import './App.scss';
 import AppLayout from './AppLayout';
 import NetPersonalWealthChart from './charts/NetPersonalWealth.chart';
+import TopMarginalRateChart from './charts/TopMarginalRate.chart';
 
 function App() {
 	return (
@@ -13,6 +14,7 @@ function App() {
 			<Routes>
 				<Route path="/" element={<AppLayout />}>
 					<Route path="chart">
+						<Route path="tmr" element={<TopMarginalRateChart />} />
 						<Route path="npw" element={<NetPersonalWealthChart />} />
 						<Route path="*" element={<div>No chart found</div>} />
 					</Route>
