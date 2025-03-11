@@ -13,7 +13,6 @@ import PresidentBar from '../PresidentBar';
 import { President } from '../type/president';
 import { fetchJSON } from '../util';
 import {
-	CHART_DEFAULT,
 	chartReducer,
 	loadChartData,
 	PRESIDENT_TICK_GAP
@@ -50,15 +49,17 @@ const TopMarginalRateChart: React.FC = () => {
 	if (!selectedState?.data) {
 		return <></>;
 	}
+	const minDomain = Math.min(...selectedState.data.map((d) => d.year));
+	const maxDomain = Math.max(...selectedState.data.map((d) => d.year));
 	return (
 		<ResponsiveContainer width="100%" height="100%">
-			<ComposedChart width={800} height={400} data={presidents}>
+			<ComposedChart width={800} height={400} data={presidents} barGap={0}>
 				<CartesianGrid strokeDasharray="3 3" />
 				<XAxis
 					xAxisId="1"
 					allowDataOverflow
 					dataKey="year"
-					domain={[CHART_DEFAULT.left, CHART_DEFAULT.right]}
+					domain={[minDomain, maxDomain]}
 					type="number"
 					tickCount={50}
 					angle={45}
@@ -76,11 +77,11 @@ const TopMarginalRateChart: React.FC = () => {
 					xAxisId="2"
 					allowDataOverflow
 					dataKey="start"
-					domain={[CHART_DEFAULT.left, CHART_DEFAULT.right]}
+					domain={[minDomain, maxDomain]}
 					type="number"
 					orientation="top"
 					minTickGap={PRESIDENT_TICK_GAP}
-					tick={false}
+					// tick={false}
 				/>
 				<Bar dataKey="start" shape={<PresidentBar />} yAxisId="1" xAxisId="2" />
 				{/* president bar END */}
@@ -97,7 +98,6 @@ const TopMarginalRateChart: React.FC = () => {
 				<Tooltip
 					filterNull
 					content={({active, payload, label}) => {
-						console.log(payload);
 						return (
 							active &&
 							payload?.length && (
