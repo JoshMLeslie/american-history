@@ -12,11 +12,7 @@ import {
 import PresidentBar from '../PresidentBar';
 import { President } from '../type/president';
 import { fetchJSON } from '../util';
-import {
-	chartReducer,
-	loadChartData,
-	PRESIDENT_TICK_GAP
-} from './chart.util';
+import { chartReducer, loadChartData, PRESIDENT_TICK_GAP } from './chart.util';
 import './top-marginal-rate.css';
 
 const presidents = await fetchJSON('/data/presidents.json').then(
@@ -81,7 +77,7 @@ const TopMarginalRateChart: React.FC = () => {
 					type="number"
 					orientation="top"
 					minTickGap={PRESIDENT_TICK_GAP}
-					// tick={false}
+					tick={false}
 				/>
 				<Bar dataKey="start" shape={<PresidentBar />} yAxisId="1" xAxisId="2" />
 				{/* president bar END */}
