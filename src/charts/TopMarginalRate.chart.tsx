@@ -47,7 +47,7 @@ const PresidentBar = (props: any) => {
 	}
 	const yearDiff = props.end - props.start;
 	const fill = genLineHSLColor(props.index, true);
-	const width = yearDiff * TICK_GAP;
+	const width = (yearDiff + 1) * TICK_GAP;
 	return (
 		<g>
 			<rect
@@ -62,9 +62,9 @@ const PresidentBar = (props: any) => {
 				stroke="#555"
 			/>
 			<g transform={`translate(${props.x + width / 2 - 6}, 50)`}>
-				<text x={0} y={0} transform="rotate(90)" fontFamily='arial'>
-					{props.name}{" "}
-					[{props.party.map((p: string) => p[0]).join(',')}]
+				<text x={0} y={0} transform="rotate(90)" fontFamily="arial">
+					{props.name} [{props.party.map((p: string) => p[0]).join(',')}]{' '}
+					{props.start} - {props.end}
 				</text>
 			</g>
 		</g>
@@ -116,6 +116,7 @@ const TopMarginalRateChart: React.FC = () => {
 					domain={[CHART_DEFAULT.left, CHART_DEFAULT.right]}
 					type="number"
 					orientation="top"
+					minTickGap={TICK_GAP}
 					tick={false}
 				/>
 				<Bar dataKey="start" shape={<PresidentBar />} yAxisId="1" xAxisId="2" />
