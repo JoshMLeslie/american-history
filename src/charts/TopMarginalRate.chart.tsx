@@ -9,21 +9,16 @@ import {
 	XAxis,
 	YAxis,
 } from 'recharts';
+import PresidentBar from '../PresidentBar';
+import { President } from '../type/president';
 import { fetchJSON } from '../util';
 import {
 	CHART_DEFAULT,
 	chartReducer,
-	genLineHSLColor,
 	loadChartData,
+	PRESIDENT_TICK_GAP
 } from './chart.util';
 import './top-marginal-rate.css';
-
-interface President {
-	name: string;
-	party: string[];
-	start: string; // simple date
-	end: string; // simple date
-}
 
 const presidents = await fetchJSON('/data/presidents.json').then(
 	(r: President[]) => {
@@ -38,38 +33,6 @@ const presidents = await fetchJSON('/data/presidents.json').then(
 		}));
 	}
 );
-
-const TICK_GAP = 8;
-
-const PresidentBar = (props: any) => {
-	if (!props) {
-		return;
-	}
-	const yearDiff = props.end - props.start;
-	const fill = genLineHSLColor(props.index, true);
-	const width = (yearDiff + 1) * TICK_GAP;
-	return (
-		<g>
-			<rect
-				data-president={props.name}
-				data-start={props.start}
-				data-end={props.end}
-				x={props.x}
-				y={0}
-				width={width}
-				height={props.height}
-				fill={fill}
-				stroke="#555"
-			/>
-			<g transform={`translate(${props.x + width / 2 - 6}, 50)`}>
-				<text x={0} y={0} transform="rotate(90)" fontFamily="arial">
-					{props.name} [{props.party.map((p: string) => p[0]).join(',')}]{' '}
-					{props.start} - {props.end}
-				</text>
-			</g>
-		</g>
-	);
-};
 
 const TopMarginalRateChart: React.FC = () => {
 	const [selectedState, dispatch] = useReducer(chartReducer, {
@@ -100,7 +63,7 @@ const TopMarginalRateChart: React.FC = () => {
 					tickCount={50}
 					angle={45}
 					tickMargin={10}
-					minTickGap={TICK_GAP}
+					minTickGap={PRESIDENT_TICK_GAP}
 				/>
 				<YAxis
 					allowDataOverflow
@@ -116,7 +79,7 @@ const TopMarginalRateChart: React.FC = () => {
 					domain={[CHART_DEFAULT.left, CHART_DEFAULT.right]}
 					type="number"
 					orientation="top"
-					minTickGap={TICK_GAP}
+					minTickGap={PRESIDENT_TICK_GAP}
 					tick={false}
 				/>
 				<Bar dataKey="start" shape={<PresidentBar />} yAxisId="1" xAxisId="2" />

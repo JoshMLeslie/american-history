@@ -55,3 +55,6 @@ export const genLineHSLColor = (index: number, lighter?: boolean) => {
 		return `hsl(${(index * 137) % 360} 70 50)`;
 	}
 };
+
+
+export const PRESIDENT_TICK_GAP = 8;
