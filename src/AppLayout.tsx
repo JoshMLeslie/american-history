@@ -33,12 +33,14 @@ function AppLayout() {
 		<>
 			<div id="chart-select-nav">
 				<Link
+					className="button"
 					to={`/chart/${ChartKeys.TMR}`}
 					onClick={() => setChartId(ChartKeys.TMR)}
 				>
 					Top Marginal Rate
 				</Link>
 				<Link
+					className="button"
 					to={`/chart/${ChartKeys.NPW}`}
 					onClick={() => setChartId(ChartKeys.NPW)}
 				>
