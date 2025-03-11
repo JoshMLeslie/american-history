@@ -123,6 +123,7 @@ const TopMarginalRateChart: React.FC = () => {
 				<Line
 					yAxisId="1"
 					xAxisId="1"
+					strokeWidth={2}
 					type="bumpX"
 					data={selectedState.data as any[]}
 					dataKey="totalTopRate"
