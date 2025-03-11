@@ -1,4 +1,8 @@
-import { CHART_ACTION_TYPE, ChartAction, ChartComponentState } from '../type/chart';
+import {
+	CHART_ACTION_TYPE,
+	ChartAction,
+	ChartComponentState,
+} from '../type/chart';
 import { fetchJSON } from '../util';
 
 export const CHART_DEFAULT = {
@@ -10,7 +14,6 @@ export const CHART_DEFAULT = {
 	bottom: 'auto',
 	animation: true,
 };
-
 
 export const chartReducer = (
 	state: ChartComponentState,
@@ -33,13 +36,22 @@ export const loadChartData = async (
 	dispatch: React.Dispatch<ChartAction>
 ) => {
 	try {
-		dispatch({type: CHART_ACTION_TYPE.SUCCESS, payload: await fetchJSON(
-			url
-		)});
+		dispatch({type: CHART_ACTION_TYPE.SUCCESS, payload: await fetchJSON(url)});
 	} catch (error) {
 		dispatch({type: CHART_ACTION_TYPE.ERROR, error: error as string});
 		console.warn(error);
 	}
 };
 
-export const genLineHSLColor = (index: number) => `hsl(${(index * 137) % 360}, 70%, 50%)`;
+/**
+ * @param index converted to degrees, can cause repeats at high indices
+ * @param [opacity] integer value, e.g. 50 => 50%
+ * @returns 
+ */
+export const genLineHSLColor = (index: number, lighter?: boolean) => {
+	if (lighter) {
+		return `hsl(${(index * 137) % 360} 40 80)`;
+	} else {
+		return `hsl(${(index * 137) % 360} 70 50)`;
+	}
+};
