@@ -1,5 +1,5 @@
 import { useLayoutEffect, useRef, useState } from 'react';
-import { genLineHSLColor, PRESIDENT_TICK_GAP } from './charts/chart.util';
+import { PRESIDENT_TICK_GAP } from './charts/chart.util';
 import { President } from './type/president';
 
 interface PresidentProps extends Partial<Omit<President, 'start' | 'end'>> {
@@ -19,7 +19,7 @@ interface PresidentProps extends Partial<Omit<President, 'start' | 'end'>> {
 	tooltipPosition?: {
 		x: number;
 		y: number;
-	}
+	};
 	// rebound president props
 	start?: number; // fullYear
 	end?: number; // fullYear
@@ -28,7 +28,7 @@ interface PresidentProps extends Partial<Omit<President, 'start' | 'end'>> {
 const PresidentBar = (props: PresidentProps) => {
 	const yearDiff = props.end! - props.start! + 1;
 	const yearWidth = useRef(0);
-	const fill = genLineHSLColor(props.index!, true);
+	const fill = props.index! % 2 ? '#faf0f0' : 'slategray';
 	const [width, setWidth] = useState((yearDiff + 1) * PRESIDENT_TICK_GAP);
 
 	useLayoutEffect(() => {
@@ -46,20 +46,24 @@ const PresidentBar = (props: PresidentProps) => {
 		return;
 	}
 
+	const useX = props.tooltipPosition!.x; // props.x, you'd think, but isn't calculated properly for some reason
+	const useY = props.background!.y; // same with props.y
+	const useHeight = props.background!.height; // ... and height ...
+
 	return (
 		<g>
 			<rect
 				data-president={props.name}
 				data-start={props.start}
 				data-end={props.end}
-				x={props.tooltipPosition!.x} // props.x, you'd think, but isn't calculated properly for some reason
-				y={props.background!.y} // same with props.y
+				x={useX}
+				y={useY}
 				width={width}
-				height={props.background!.height} // ... and height ...
+				height={useHeight}
 				fill={fill}
 				stroke="#555"
 			/>
-			<g transform={`translate(${props.tooltipPosition!.x! + width / 2 - 6}, 50)`}>
+			<g transform={`translate(${useX + (width / 2 - 10)}, 50)`}>
 				<text x={0} y={0} transform="rotate(90)" fontFamily="arial">
 					{props.name} [{props.party!.map((p: string) => p[0]).join(',')}]{' '}
 					{props.start} - {props.end}

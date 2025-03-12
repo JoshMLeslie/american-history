@@ -46,15 +46,11 @@ export const loadChartData = async (
 /**
  * @param index converted to degrees, can cause repeats at high indices
  * @param [opacity] integer value, e.g. 50 => 50%
- * @returns 
+ * @returns
  */
-export const genLineHSLColor = (index: number, lighter?: boolean) => {
-	if (lighter) {
-		return `hsl(${(index * 137) % 360} 40 80)`;
-	} else {
-		return `hsl(${(index * 137) % 360} 70 50)`;
-	}
+export const genLineHSLColor = (index: number) => {
+	const firstValue = (index * 13.7) % 360;
+	return `hsl(${firstValue} 70 50)`;
 };
-
 
 export const PRESIDENT_TICK_GAP = 8;
