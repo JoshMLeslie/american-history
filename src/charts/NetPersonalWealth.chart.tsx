@@ -1,4 +1,4 @@
-import { useEffect, useReducer } from 'react';
+import React, { useEffect, useReducer } from 'react';
 import {
 	Bar,
 	CartesianGrid,
@@ -29,11 +29,59 @@ const COUNTRY_PERCENTILES = [
 	'East Asia-Bottom 50%',
 	'Russia & Central Asia-Top 1%',
 	'Russia & Central Asia-Bottom 50%',
-	'South & South-East Asia-Top 1%',
-	'South & South-East Asia-Bottom 50%',
+	'South & SE Asia-Top 1%',
+	'South & SE Asia-Bottom 50%',
 	'West Asia-Top 1%',
 	'West Asia-Bottom 50%',
 ];
+
+const NpwTooltipComponent: React.FC<{
+	active: boolean;
+	payload: Record<string, any>;
+	label: string;
+}> = ({active, payload, label}) => {
+	return (
+		active &&
+		payload?.length && (
+			<div className="top-marginal-rate-tooltip">
+				<p>{label}</p>
+				{Object.values(payload)
+					.sort((a, b) => (b.value as number) - (a.value as number))
+					.map((datum, i) => (
+						<React.Fragment key={datum.name}>
+							<div
+								className="label"
+								style={{
+									display: 'flex',
+									flexDirection: 'column',
+								}}
+							>
+								{i === 0 && <p>Top 1%</p>}
+								<div
+									style={{
+										display: 'flex',
+										justifyContent: 'space-between',
+										gap: '8px',
+									}}
+								>
+									<span style={{color: datum.color}}>
+										{datum.name.split('-')[0]}
+									</span>
+									<span>{Number(datum.value).toFixed(2)}%</span>
+								</div>
+							</div>
+							{i + 1 === Array.from(payload.values()).length / 2 && (
+								<>
+									<hr />
+									<p>Bottom 50%</p>
+								</>
+							)}
+						</React.Fragment>
+					))}
+			</div>
+		)
+	);
+};
 
 const presidents = await fetchJSON('/data/presidents.json').then(
 	(r: President[]) => {
@@ -93,14 +141,14 @@ const NetPersonalWealthChart: React.FC = () => {
 					domain={[minDomain, maxDomain]}
 					type="number"
 					orientation="top"
-					interval={0}
-					tickCount={13}
+					tick={false}
 				/>
 				<Bar
 					dataKey="start"
 					shape={<PresidentBar minDomain={minDomain} maxDomain={maxDomain} />}
 					yAxisId="1"
 					xAxisId="2"
+					tooltipType='none'
 				/>
 				{COUNTRY_PERCENTILES.map((country, i) => {
 					// since country percentile data is adjacent, normalize the color per country
@@ -118,9 +166,7 @@ const NetPersonalWealthChart: React.FC = () => {
 						/>
 					);
 				})}
-				<Tooltip
-					formatter={(value) => parseFloat(`${value}`).toFixed(2) + '%'}
-				/>
+				<Tooltip offset={20} content={NpwTooltipComponent as any} />
 			</ComposedChart>
 		</ResponsiveContainer>
 	);
