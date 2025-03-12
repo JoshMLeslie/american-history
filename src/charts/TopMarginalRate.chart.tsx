@@ -79,7 +79,12 @@ const TopMarginalRateChart: React.FC = () => {
 					minTickGap={PRESIDENT_TICK_GAP}
 					tick={false}
 				/>
-				<Bar dataKey="start" shape={<PresidentBar />} yAxisId="1" xAxisId="2" />
+				<Bar
+					dataKey="start"
+					shape={<PresidentBar minDomain={minDomain} maxDomain={maxDomain} />}
+					yAxisId="1"
+					xAxisId="2"
+				/>
 				{/* president bar END */}
 				<Line
 					yAxisId="1"
