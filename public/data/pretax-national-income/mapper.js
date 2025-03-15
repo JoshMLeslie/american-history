@@ -18,7 +18,7 @@ data.forEach((entry) => {
 		Country = 'South & SE Asia'
 	}
 	const key = `${Country}-${percentileLabel}`;
-	result[Year][key] = Number(Value).toFixed(2);
+	result[Year][key] = Number(Value * 100).toFixed(2);
 });
 
 // Convert the result object to an array
