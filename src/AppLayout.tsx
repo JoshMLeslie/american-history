@@ -45,44 +45,49 @@ function AppLayout() {
 
 	return (
 		<>
-			<div id="chart-select-nav">
-				<Link
-					className="button"
-					to="/"
-					onClick={() => setChartId(ChartKeys.HOME)}
-				>
-					Home
-				</Link>
-				<Link
-					className="button"
-					to={`/chart/${ChartKeys.TMR}`}
-					onClick={() => setChartId(ChartKeys.TMR)}
-				>
-					Top Marginal Rate
-				</Link>
-				<Link
-					className="button"
-					to={`/chart/${ChartKeys.NPW}`}
-					onClick={() => setChartId(ChartKeys.NPW)}
-				>
-					Net Personal Wealth
-				</Link>
+			<div id="mobile-portrait-warning">
+				Please rotate your device to landscape mode to view
 			</div>
-			<div id="chart-super-container">
-				<div id="selected-chart">
-					<Outlet />
+			<div id="app-layout-content">
+				<div id="chart-select-nav">
+					<Link
+						className="button"
+						to="/"
+						onClick={() => setChartId(ChartKeys.HOME)}
+					>
+						Home
+					</Link>
+					<Link
+						className="button"
+						to={`/chart/${ChartKeys.TMR}`}
+						onClick={() => setChartId(ChartKeys.TMR)}
+					>
+						Top Marginal Rate
+					</Link>
+					<Link
+						className="button"
+						to={`/chart/${ChartKeys.NPW}`}
+						onClick={() => setChartId(ChartKeys.NPW)}
+					>
+						Net Personal Wealth
+					</Link>
 				</div>
-				<div
-					id="selected-chart-blurb"
-					className={showMoreBlurb ? 'expand' : ''}
-				>
-					<div id="chart-blurb-actions">
-						<h2>{chartMeta[chartId]?.title}</h2>
-						<button id="chart-blurb-more" onClick={toggleBlurb}>
-							{showMoreBlurb ? 'Shrink' : 'Expand'}
-						</button>
+				<div id="chart-super-container">
+					<div id="selected-chart">
+						<Outlet />
 					</div>
-					<p id="chart-blurb-content">{chartMeta[chartId]?.description}</p>
+					<div
+						id="selected-chart-blurb"
+						className={showMoreBlurb ? 'expand' : ''}
+					>
+						<div id="chart-blurb-actions">
+							<h2>{chartMeta[chartId]?.title}</h2>
+							<button id="chart-blurb-more" onClick={toggleBlurb}>
+								{showMoreBlurb ? 'Shrink' : 'Expand'}
+							</button>
+						</div>
+						<p id="chart-blurb-content">{chartMeta[chartId]?.description}</p>
+					</div>
 				</div>
 			</div>
 		</>
