@@ -2,6 +2,7 @@ import { useCallback, useEffect, useState } from 'react';
 import { useNavigate, useSearchParams } from 'react-router';
 import './App.scss';
 import NetPersonalWealthChart from './charts/NetPersonalWealth.chart';
+import PretaxNationalIncomeChart from './charts/PretaxNationalIncome.chart';
 import TopMarginalRateChart from './charts/TopMarginalRate.chart';
 import { ChartKeys, chartMeta } from './data/chart-meta';
 
@@ -55,6 +56,8 @@ function AppLayout() {
 				return <TopMarginalRateChart />;
 			case 'npw':
 				return <NetPersonalWealthChart />;
+			case 'pni':
+				return <PretaxNationalIncomeChart />;
 			default:
 				return <div>Error</div>;
 		}
@@ -62,7 +65,7 @@ function AppLayout() {
 
 	return (
 		<>
-			<div id="mobile-portrait-warning" className='basic-centered'>
+			<div id="mobile-portrait-warning" className="basic-centered">
 				Please rotate your device to landscape mode to view
 			</div>
 			<div id="app-layout-content">
@@ -84,6 +87,12 @@ function AppLayout() {
 						onClick={() => handleChartId(ChartKeys.NPW)}
 					>
 						Net Personal Wealth
+					</button>
+					<button
+						className="button"
+						onClick={() => handleChartId(ChartKeys.PNI)}
+					>
+						Pretax National Income
 					</button>
 				</div>
 				<div id="chart-super-container">
