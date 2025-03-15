@@ -1,3 +1,4 @@
+import { ChartKeys } from '../data/chart-meta';
 import { PresidentWithYear } from './president';
 
 export enum CHART_ACTION_TYPE {
@@ -11,7 +12,7 @@ export type ChartMeta = Record<SelectedChart['id'], SelectedChart>;
 export interface SelectedChart {
 	title: string;
 	description: string;
-	id: string;
+	id: ChartKeys;
 	data: null | {
 		presidents: PresidentWithYear[];
 		chart: any[];
