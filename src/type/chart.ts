@@ -1,4 +1,4 @@
-import { PresidentDate } from './president';
+import { PresidentWithYear } from './president';
 
 export enum CHART_ACTION_TYPE {
 	START = 'START',
@@ -12,8 +12,8 @@ export interface SelectedChart {
 	title: string;
 	description: string;
 	id: string;
-	data: {
-		presidents: PresidentDate[];
+	data: null | {
+		presidents: PresidentWithYear[];
 		chart: any[];
 	};
 }
@@ -32,6 +32,6 @@ export interface ChartComponentState {
 
 export type LoadChartConfig = Array<{
 	url: string;
-	label: keyof SelectedChart['data'];
+	label: keyof Exclude<SelectedChart['data'], null>; // explicitly not null as this is a hard-coded config
 	startYear?: number; // the year of a president's starting term to search against, `X >= startYear`
 }>;

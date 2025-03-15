@@ -4,7 +4,7 @@ export interface President {
 	start: string; // simple date
 	end: string; // simple date
 }
-export interface PresidentDate {
+export interface PresidentWithYear {
 	name: string;
 	party: string[];
 	start: number; // year

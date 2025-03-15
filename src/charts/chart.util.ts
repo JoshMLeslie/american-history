@@ -6,7 +6,7 @@ import {
 	LoadChartConfig,
 	SelectedChart,
 } from '../type/chart';
-import { President, PresidentDate } from '../type/president';
+import { President, PresidentWithYear } from '../type/president';
 import { fetchJSON } from '../util';
 
 export const CHART_CONFIG = {
@@ -60,7 +60,7 @@ export const useChartReducer = () =>
 const filterPresidents = (
 	presidents: President[],
 	startYear: number
-): PresidentDate[] => {
+): PresidentWithYear[] => {
 	const startIndex = presidents.findIndex(
 		(prez) => new Date(prez.start).getFullYear() >= startYear
 	);
