@@ -17,6 +17,7 @@ import {
 	loadChartData,
 	useChartReducer,
 } from './chart.util';
+import MultiLineTooltipComponent from './MultiLineTooltipComponent';
 
 const COUNTRY_PERCENTILES = [
 	'Eastern Europe-Top 1%',
@@ -38,54 +39,6 @@ const COUNTRY_PERCENTILES = [
 	'West Asia-Top 1%',
 	'West Asia-Bottom 50%',
 ];
-
-const NpwTooltipComponent: React.FC<{
-	active: boolean;
-	payload: Record<string, any>;
-	label: string;
-}> = ({active, payload, label}) => {
-	return (
-		active &&
-		payload?.length && (
-			<div className="top-marginal-rate-tooltip">
-				<p>{label}</p>
-				{Object.values(payload)
-					.sort((a, b) => (b.value as number) - (a.value as number))
-					.map((datum, i) => (
-						<React.Fragment key={datum.name}>
-							<div
-								className="label"
-								style={{
-									display: 'flex',
-									flexDirection: 'column',
-								}}
-							>
-								{i === 0 && <p>Top 1%</p>}
-								<div
-									style={{
-										display: 'flex',
-										justifyContent: 'space-between',
-										gap: '8px',
-									}}
-								>
-									<span style={{color: datum.color}}>
-										{datum.name.split('-')[0]}
-									</span>
-									<span>{Number(datum.value).toFixed(2)}%</span>
-								</div>
-							</div>
-							{i + 1 === Array.from(payload.values()).length / 2 && (
-								<>
-									<hr />
-									<p>Bottom 50%</p>
-								</>
-							)}
-						</React.Fragment>
-					))}
-			</div>
-		)
-	);
-};
 
 const CHART_DATA: LoadChartConfig = [
 	{
@@ -174,7 +127,7 @@ const NetPersonalWealthChart: React.FC = () => {
 						/>
 					);
 				})}
-				<Tooltip offset={20} content={NpwTooltipComponent as any} />
+				<Tooltip offset={20} content={MultiLineTooltipComponent as any} />
 			</ComposedChart>
 		</ResponsiveContainer>
 	);
