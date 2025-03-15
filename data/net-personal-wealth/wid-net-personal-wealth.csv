@@ -1,0 +1,523 @@
+Country;Percentile Label;Percentile;Year;Value
+East Asia;Top 1%;p99p100;1995;0.4274
+East Asia;Top 1%;p99p100;1996;0.4345
+East Asia;Top 1%;p99p100;1997;0.4088
+East Asia;Top 1%;p99p100;1998;0.3934
+East Asia;Top 1%;p99p100;1999;0.3791
+East Asia;Top 1%;p99p100;2000;0.3657
+East Asia;Top 1%;p99p100;2001;0.3611
+East Asia;Top 1%;p99p100;2002;0.3464
+East Asia;Top 1%;p99p100;2003;0.3485
+East Asia;Top 1%;p99p100;2004;0.3525
+East Asia;Top 1%;p99p100;2005;0.3534
+East Asia;Top 1%;p99p100;2006;0.3539
+East Asia;Top 1%;p99p100;2007;0.3639
+East Asia;Top 1%;p99p100;2008;0.3312
+East Asia;Top 1%;p99p100;2009;0.3283
+East Asia;Top 1%;p99p100;2010;0.3253
+East Asia;Top 1%;p99p100;2011;0.3159
+East Asia;Top 1%;p99p100;2012;0.3067
+East Asia;Top 1%;p99p100;2013;0.303
+East Asia;Top 1%;p99p100;2014;0.3049
+East Asia;Top 1%;p99p100;2015;0.3117
+East Asia;Top 1%;p99p100;2016;0.3088
+East Asia;Top 1%;p99p100;2017;0.3103
+East Asia;Top 1%;p99p100;2018;0.3087
+East Asia;Top 1%;p99p100;2019;0.3014
+East Asia;Top 1%;p99p100;2020;0.3019
+East Asia;Top 1%;p99p100;2021;0.3067
+East Asia;Top 1%;p99p100;2022;0.3035
+East Asia;Top 1%;p99p100;2023;0.2988
+East Asia;Bottom 50%;p0p50;1995;0.0343
+East Asia;Bottom 50%;p0p50;1996;0.0341
+East Asia;Bottom 50%;p0p50;1997;0.0401
+East Asia;Bottom 50%;p0p50;1998;0.0448
+East Asia;Bottom 50%;p0p50;1999;0.0519
+East Asia;Bottom 50%;p0p50;2000;0.055
+East Asia;Bottom 50%;p0p50;2001;0.0573
+East Asia;Bottom 50%;p0p50;2002;0.0613
+East Asia;Bottom 50%;p0p50;2003;0.0578
+East Asia;Bottom 50%;p0p50;2004;0.0546
+East Asia;Bottom 50%;p0p50;2005;0.0526
+East Asia;Bottom 50%;p0p50;2006;0.0501
+East Asia;Bottom 50%;p0p50;2007;0.048
+East Asia;Bottom 50%;p0p50;2008;0.0486
+East Asia;Bottom 50%;p0p50;2009;0.0485
+East Asia;Bottom 50%;p0p50;2010;0.0477
+East Asia;Bottom 50%;p0p50;2011;0.0442
+East Asia;Bottom 50%;p0p50;2012;0.0462
+East Asia;Bottom 50%;p0p50;2013;0.0467
+East Asia;Bottom 50%;p0p50;2014;0.048
+East Asia;Bottom 50%;p0p50;2015;0.049
+East Asia;Bottom 50%;p0p50;2016;0.05
+East Asia;Bottom 50%;p0p50;2017;0.0493
+East Asia;Bottom 50%;p0p50;2018;0.0499
+East Asia;Bottom 50%;p0p50;2019;0.0511
+East Asia;Bottom 50%;p0p50;2020;0.0516
+East Asia;Bottom 50%;p0p50;2021;0.0511
+East Asia;Bottom 50%;p0p50;2022;0.051
+East Asia;Bottom 50%;p0p50;2023;0.0518
+Eastern Europe;Top 1%;p99p100;1995;0.2463
+Eastern Europe;Top 1%;p99p100;1996;0.2398
+Eastern Europe;Top 1%;p99p100;1997;0.2395
+Eastern Europe;Top 1%;p99p100;1998;0.241
+Eastern Europe;Top 1%;p99p100;1999;0.2416
+Eastern Europe;Top 1%;p99p100;2000;0.2408
+Eastern Europe;Top 1%;p99p100;2001;0.2427
+Eastern Europe;Top 1%;p99p100;2002;0.2436
+Eastern Europe;Top 1%;p99p100;2003;0.245
+Eastern Europe;Top 1%;p99p100;2004;0.2449
+Eastern Europe;Top 1%;p99p100;2005;0.2418
+Eastern Europe;Top 1%;p99p100;2006;0.2458
+Eastern Europe;Top 1%;p99p100;2007;0.2479
+Eastern Europe;Top 1%;p99p100;2008;0.2461
+Eastern Europe;Top 1%;p99p100;2009;0.2433
+Eastern Europe;Top 1%;p99p100;2010;0.243
+Eastern Europe;Top 1%;p99p100;2011;0.2462
+Eastern Europe;Top 1%;p99p100;2012;0.2486
+Eastern Europe;Top 1%;p99p100;2013;0.248
+Eastern Europe;Top 1%;p99p100;2014;0.2518
+Eastern Europe;Top 1%;p99p100;2015;0.2625
+Eastern Europe;Top 1%;p99p100;2016;0.2709
+Eastern Europe;Top 1%;p99p100;2017;0.2744
+Eastern Europe;Top 1%;p99p100;2018;0.2764
+Eastern Europe;Top 1%;p99p100;2019;0.2763
+Eastern Europe;Top 1%;p99p100;2020;0.277
+Eastern Europe;Top 1%;p99p100;2021;0.2808
+Eastern Europe;Top 1%;p99p100;2022;0.2833
+Eastern Europe;Top 1%;p99p100;2023;0.2819
+Eastern Europe;Bottom 50%;p0p50;1995;0.0271
+Eastern Europe;Bottom 50%;p0p50;1996;0.0278
+Eastern Europe;Bottom 50%;p0p50;1997;0.0247
+Eastern Europe;Bottom 50%;p0p50;1998;0.0255
+Eastern Europe;Bottom 50%;p0p50;1999;0.0242
+Eastern Europe;Bottom 50%;p0p50;2000;0.0236
+Eastern Europe;Bottom 50%;p0p50;2001;0.0221
+Eastern Europe;Bottom 50%;p0p50;2002;0.0266
+Eastern Europe;Bottom 50%;p0p50;2003;0.0264
+Eastern Europe;Bottom 50%;p0p50;2004;0.0278
+Eastern Europe;Bottom 50%;p0p50;2005;0.0287
+Eastern Europe;Bottom 50%;p0p50;2006;0.0246
+Eastern Europe;Bottom 50%;p0p50;2007;0.0276
+Eastern Europe;Bottom 50%;p0p50;2008;0.0288
+Eastern Europe;Bottom 50%;p0p50;2009;0.0282
+Eastern Europe;Bottom 50%;p0p50;2010;0.0248
+Eastern Europe;Bottom 50%;p0p50;2011;0.0245
+Eastern Europe;Bottom 50%;p0p50;2012;0.0242
+Eastern Europe;Bottom 50%;p0p50;2013;0.0278
+Eastern Europe;Bottom 50%;p0p50;2014;0.027
+Eastern Europe;Bottom 50%;p0p50;2015;0.0258
+Eastern Europe;Bottom 50%;p0p50;2016;0.0266
+Eastern Europe;Bottom 50%;p0p50;2017;0.0224
+Eastern Europe;Bottom 50%;p0p50;2018;0.0266
+Eastern Europe;Bottom 50%;p0p50;2019;0.0258
+Eastern Europe;Bottom 50%;p0p50;2020;0.0263
+Eastern Europe;Bottom 50%;p0p50;2021;0.0269
+Eastern Europe;Bottom 50%;p0p50;2022;0.0219
+Eastern Europe;Bottom 50%;p0p50;2023;0.0215
+North Africa;Top 1%;p99p100;1995;0.2979
+North Africa;Top 1%;p99p100;1996;0.3026
+North Africa;Top 1%;p99p100;1997;0.3054
+North Africa;Top 1%;p99p100;1998;0.3091
+North Africa;Top 1%;p99p100;1999;0.3142
+North Africa;Top 1%;p99p100;2000;0.3125
+North Africa;Top 1%;p99p100;2001;0.3137
+North Africa;Top 1%;p99p100;2002;0.3124
+North Africa;Top 1%;p99p100;2003;0.3097
+North Africa;Top 1%;p99p100;2004;0.3096
+North Africa;Top 1%;p99p100;2005;0.3101
+North Africa;Top 1%;p99p100;2006;0.3075
+North Africa;Top 1%;p99p100;2007;0.3049
+North Africa;Top 1%;p99p100;2008;0.312
+North Africa;Top 1%;p99p100;2009;0.2984
+North Africa;Top 1%;p99p100;2010;0.2948
+North Africa;Top 1%;p99p100;2011;0.2981
+North Africa;Top 1%;p99p100;2012;0.2994
+North Africa;Top 1%;p99p100;2013;0.3068
+North Africa;Top 1%;p99p100;2014;0.3119
+North Africa;Top 1%;p99p100;2015;0.3171
+North Africa;Top 1%;p99p100;2016;0.3138
+North Africa;Top 1%;p99p100;2017;0.3059
+North Africa;Top 1%;p99p100;2018;0.3088
+North Africa;Top 1%;p99p100;2019;0.3075
+North Africa;Top 1%;p99p100;2020;0.3094
+North Africa;Top 1%;p99p100;2021;0.3099
+North Africa;Top 1%;p99p100;2022;0.3147
+North Africa;Top 1%;p99p100;2023;0.3165
+North Africa;Bottom 50%;p0p50;1995;0.0279
+North Africa;Bottom 50%;p0p50;1996;0.0286
+North Africa;Bottom 50%;p0p50;1997;0.0296
+North Africa;Bottom 50%;p0p50;1998;0.0294
+North Africa;Bottom 50%;p0p50;1999;0.0281
+North Africa;Bottom 50%;p0p50;2000;0.0295
+North Africa;Bottom 50%;p0p50;2001;0.0301
+North Africa;Bottom 50%;p0p50;2002;0.0303
+North Africa;Bottom 50%;p0p50;2003;0.0308
+North Africa;Bottom 50%;p0p50;2004;0.0311
+North Africa;Bottom 50%;p0p50;2005;0.0308
+North Africa;Bottom 50%;p0p50;2006;0.0311
+North Africa;Bottom 50%;p0p50;2007;0.031
+North Africa;Bottom 50%;p0p50;2008;0.0289
+North Africa;Bottom 50%;p0p50;2009;0.029
+North Africa;Bottom 50%;p0p50;2010;0.0282
+North Africa;Bottom 50%;p0p50;2011;0.027
+North Africa;Bottom 50%;p0p50;2012;0.0287
+North Africa;Bottom 50%;p0p50;2013;0.0277
+North Africa;Bottom 50%;p0p50;2014;0.0274
+North Africa;Bottom 50%;p0p50;2015;0.0264
+North Africa;Bottom 50%;p0p50;2016;0.0269
+North Africa;Bottom 50%;p0p50;2017;0.0284
+North Africa;Bottom 50%;p0p50;2018;0.0274
+North Africa;Bottom 50%;p0p50;2019;0.0271
+North Africa;Bottom 50%;p0p50;2020;0.0256
+North Africa;Bottom 50%;p0p50;2021;0.0244
+North Africa;Bottom 50%;p0p50;2022;0.023
+North Africa;Bottom 50%;p0p50;2023;0.0213
+North America;Top 1%;p99p100;1995;0.2837
+North America;Top 1%;p99p100;1996;0.2894
+North America;Top 1%;p99p100;1997;0.2954
+North America;Top 1%;p99p100;1998;0.306
+North America;Top 1%;p99p100;1999;0.3094
+North America;Top 1%;p99p100;2000;0.3152
+North America;Top 1%;p99p100;2001;0.3147
+North America;Top 1%;p99p100;2002;0.3084
+North America;Top 1%;p99p100;2003;0.3066
+North America;Top 1%;p99p100;2004;0.3144
+North America;Top 1%;p99p100;2005;0.3216
+North America;Top 1%;p99p100;2006;0.3247
+North America;Top 1%;p99p100;2007;0.3259
+North America;Top 1%;p99p100;2008;0.3319
+North America;Top 1%;p99p100;2009;0.3242
+North America;Top 1%;p99p100;2010;0.3456
+North America;Top 1%;p99p100;2011;0.3421
+North America;Top 1%;p99p100;2012;0.3531
+North America;Top 1%;p99p100;2013;0.3486
+North America;Top 1%;p99p100;2014;0.3552
+North America;Top 1%;p99p100;2015;0.3547
+North America;Top 1%;p99p100;2016;0.3492
+North America;Top 1%;p99p100;2017;0.3429
+North America;Top 1%;p99p100;2018;0.3408
+North America;Top 1%;p99p100;2019;0.3422
+North America;Top 1%;p99p100;2020;0.3353
+North America;Top 1%;p99p100;2021;0.3445
+North America;Top 1%;p99p100;2022;0.3491
+North America;Top 1%;p99p100;2023;0.3487
+North America;Bottom 50%;p0p50;1995;0.0246
+North America;Bottom 50%;p0p50;1996;0.0229
+North America;Bottom 50%;p0p50;1997;0.0204
+North America;Bottom 50%;p0p50;1998;0.0197
+North America;Bottom 50%;p0p50;1999;0.0212
+North America;Bottom 50%;p0p50;2000;0.0217
+North America;Bottom 50%;p0p50;2001;0.0231
+North America;Bottom 50%;p0p50;2002;0.0236
+North America;Bottom 50%;p0p50;2003;0.0227
+North America;Bottom 50%;p0p50;2004;0.0218
+North America;Bottom 50%;p0p50;2005;0.0218
+North America;Bottom 50%;p0p50;2006;0.0208
+North America;Bottom 50%;p0p50;2007;0.018
+North America;Bottom 50%;p0p50;2008;0.0149
+North America;Bottom 50%;p0p50;2009;0.0134
+North America;Bottom 50%;p0p50;2010;0.0127
+North America;Bottom 50%;p0p50;2011;0.0129
+North America;Bottom 50%;p0p50;2012;0.0128
+North America;Bottom 50%;p0p50;2013;0.0134
+North America;Bottom 50%;p0p50;2014;0.0144
+North America;Bottom 50%;p0p50;2015;0.0149
+North America;Bottom 50%;p0p50;2016;0.0154
+North America;Bottom 50%;p0p50;2017;0.0179
+North America;Bottom 50%;p0p50;2018;0.0183
+North America;Bottom 50%;p0p50;2019;0.0186
+North America;Bottom 50%;p0p50;2020;0.0183
+North America;Bottom 50%;p0p50;2021;0.0171
+North America;Bottom 50%;p0p50;2022;0.0163
+North America;Bottom 50%;p0p50;2023;0.0164
+Russia & Central Asia;Top 1%;p99p100;1995;0.249
+Russia & Central Asia;Top 1%;p99p100;1996;0.2681
+Russia & Central Asia;Top 1%;p99p100;1997;0.2564
+Russia & Central Asia;Top 1%;p99p100;1998;0.2538
+Russia & Central Asia;Top 1%;p99p100;1999;0.26
+Russia & Central Asia;Top 1%;p99p100;2000;0.2757
+Russia & Central Asia;Top 1%;p99p100;2001;0.2815
+Russia & Central Asia;Top 1%;p99p100;2002;0.2718
+Russia & Central Asia;Top 1%;p99p100;2003;0.2714
+Russia & Central Asia;Top 1%;p99p100;2004;0.2724
+Russia & Central Asia;Top 1%;p99p100;2005;0.2676
+Russia & Central Asia;Top 1%;p99p100;2006;0.2814
+Russia & Central Asia;Top 1%;p99p100;2007;0.2863
+Russia & Central Asia;Top 1%;p99p100;2008;0.3196
+Russia & Central Asia;Top 1%;p99p100;2009;0.2914
+Russia & Central Asia;Top 1%;p99p100;2010;0.2718
+Russia & Central Asia;Top 1%;p99p100;2011;0.2892
+Russia & Central Asia;Top 1%;p99p100;2012;0.2753
+Russia & Central Asia;Top 1%;p99p100;2013;0.2866
+Russia & Central Asia;Top 1%;p99p100;2014;0.2867
+Russia & Central Asia;Top 1%;p99p100;2015;0.2872
+Russia & Central Asia;Top 1%;p99p100;2016;0.2882
+Russia & Central Asia;Top 1%;p99p100;2017;0.29
+Russia & Central Asia;Top 1%;p99p100;2018;0.2984
+Russia & Central Asia;Top 1%;p99p100;2019;0.2976
+Russia & Central Asia;Top 1%;p99p100;2020;0.3203
+Russia & Central Asia;Top 1%;p99p100;2021;0.3315
+Russia & Central Asia;Top 1%;p99p100;2022;0.3079
+Russia & Central Asia;Top 1%;p99p100;2023;0.3373
+Russia & Central Asia;Bottom 50%;p0p50;1995;0.0441
+Russia & Central Asia;Bottom 50%;p0p50;1996;0.0414
+Russia & Central Asia;Bottom 50%;p0p50;1997;0.0434
+Russia & Central Asia;Bottom 50%;p0p50;1998;0.0434
+Russia & Central Asia;Bottom 50%;p0p50;1999;0.0424
+Russia & Central Asia;Bottom 50%;p0p50;2000;0.0403
+Russia & Central Asia;Bottom 50%;p0p50;2001;0.039
+Russia & Central Asia;Bottom 50%;p0p50;2002;0.04
+Russia & Central Asia;Bottom 50%;p0p50;2003;0.0393
+Russia & Central Asia;Bottom 50%;p0p50;2004;0.0385
+Russia & Central Asia;Bottom 50%;p0p50;2005;0.0389
+Russia & Central Asia;Bottom 50%;p0p50;2006;0.0358
+Russia & Central Asia;Bottom 50%;p0p50;2007;0.035
+Russia & Central Asia;Bottom 50%;p0p50;2008;0.0314
+Russia & Central Asia;Bottom 50%;p0p50;2009;0.0339
+Russia & Central Asia;Bottom 50%;p0p50;2010;0.0359
+Russia & Central Asia;Bottom 50%;p0p50;2011;0.0369
+Russia & Central Asia;Bottom 50%;p0p50;2012;0.038
+Russia & Central Asia;Bottom 50%;p0p50;2013;0.0375
+Russia & Central Asia;Bottom 50%;p0p50;2014;0.0375
+Russia & Central Asia;Bottom 50%;p0p50;2015;0.0382
+Russia & Central Asia;Bottom 50%;p0p50;2016;0.0388
+Russia & Central Asia;Bottom 50%;p0p50;2017;0.039
+Russia & Central Asia;Bottom 50%;p0p50;2018;0.0389
+Russia & Central Asia;Bottom 50%;p0p50;2019;0.0387
+Russia & Central Asia;Bottom 50%;p0p50;2020;0.035
+Russia & Central Asia;Bottom 50%;p0p50;2021;0.035
+Russia & Central Asia;Bottom 50%;p0p50;2022;0.0334
+Russia & Central Asia;Bottom 50%;p0p50;2023;0.0323
+South & South-East Asia;Top 1%;p99p100;1995;0.3427
+South & South-East Asia;Top 1%;p99p100;1996;0.3368
+South & South-East Asia;Top 1%;p99p100;1997;0.3306
+South & South-East Asia;Top 1%;p99p100;1998;0.3089
+South & South-East Asia;Top 1%;p99p100;1999;0.3049
+South & South-East Asia;Top 1%;p99p100;2000;0.2994
+South & South-East Asia;Top 1%;p99p100;2001;0.3013
+South & South-East Asia;Top 1%;p99p100;2002;0.3003
+South & South-East Asia;Top 1%;p99p100;2003;0.3028
+South & South-East Asia;Top 1%;p99p100;2004;0.2954
+South & South-East Asia;Top 1%;p99p100;2005;0.296
+South & South-East Asia;Top 1%;p99p100;2006;0.2948
+South & South-East Asia;Top 1%;p99p100;2007;0.302
+South & South-East Asia;Top 1%;p99p100;2008;0.3165
+South & South-East Asia;Top 1%;p99p100;2009;0.296
+South & South-East Asia;Top 1%;p99p100;2010;0.3155
+South & South-East Asia;Top 1%;p99p100;2011;0.3181
+South & South-East Asia;Top 1%;p99p100;2012;0.3147
+South & South-East Asia;Top 1%;p99p100;2013;0.3152
+South & South-East Asia;Top 1%;p99p100;2014;0.317
+South & South-East Asia;Top 1%;p99p100;2015;0.317
+South & South-East Asia;Top 1%;p99p100;2016;0.3212
+South & South-East Asia;Top 1%;p99p100;2017;0.3221
+South & South-East Asia;Top 1%;p99p100;2018;0.3212
+South & South-East Asia;Top 1%;p99p100;2019;0.3197
+South & South-East Asia;Top 1%;p99p100;2020;0.3173
+South & South-East Asia;Top 1%;p99p100;2021;0.329
+South & South-East Asia;Top 1%;p99p100;2022;0.3282
+South & South-East Asia;Top 1%;p99p100;2023;0.3223
+South & South-East Asia;Bottom 50%;p0p50;1995;0.0434
+South & South-East Asia;Bottom 50%;p0p50;1996;0.0445
+South & South-East Asia;Bottom 50%;p0p50;1997;0.0452
+South & South-East Asia;Bottom 50%;p0p50;1998;0.0504
+South & South-East Asia;Bottom 50%;p0p50;1999;0.0509
+South & South-East Asia;Bottom 50%;p0p50;2000;0.0515
+South & South-East Asia;Bottom 50%;p0p50;2001;0.0512
+South & South-East Asia;Bottom 50%;p0p50;2002;0.0514
+South & South-East Asia;Bottom 50%;p0p50;2003;0.0505
+South & South-East Asia;Bottom 50%;p0p50;2004;0.0529
+South & South-East Asia;Bottom 50%;p0p50;2005;0.0539
+South & South-East Asia;Bottom 50%;p0p50;2006;0.0542
+South & South-East Asia;Bottom 50%;p0p50;2007;0.0538
+South & South-East Asia;Bottom 50%;p0p50;2008;0.0509
+South & South-East Asia;Bottom 50%;p0p50;2009;0.0531
+South & South-East Asia;Bottom 50%;p0p50;2010;0.0486
+South & South-East Asia;Bottom 50%;p0p50;2011;0.0473
+South & South-East Asia;Bottom 50%;p0p50;2012;0.0472
+South & South-East Asia;Bottom 50%;p0p50;2013;0.047
+South & South-East Asia;Bottom 50%;p0p50;2014;0.0469
+South & South-East Asia;Bottom 50%;p0p50;2015;0.0462
+South & South-East Asia;Bottom 50%;p0p50;2016;0.0448
+South & South-East Asia;Bottom 50%;p0p50;2017;0.0438
+South & South-East Asia;Bottom 50%;p0p50;2018;0.0451
+South & South-East Asia;Bottom 50%;p0p50;2019;0.0456
+South & South-East Asia;Bottom 50%;p0p50;2020;0.0459
+South & South-East Asia;Bottom 50%;p0p50;2021;0.0445
+South & South-East Asia;Bottom 50%;p0p50;2022;0.0434
+South & South-East Asia;Bottom 50%;p0p50;2023;0.044
+South Africa;Top 1%;p99p100;1995;0.4685
+South Africa;Top 1%;p99p100;1996;0.4833
+South Africa;Top 1%;p99p100;1997;0.4792
+South Africa;Top 1%;p99p100;1998;0.4778
+South Africa;Top 1%;p99p100;1999;0.5073
+South Africa;Top 1%;p99p100;2000;0.4954
+South Africa;Top 1%;p99p100;2001;0.5091
+South Africa;Top 1%;p99p100;2002;0.5044000000000001
+South Africa;Top 1%;p99p100;2003;0.5057
+South Africa;Top 1%;p99p100;2004;0.4965
+South Africa;Top 1%;p99p100;2005;0.5178
+South Africa;Top 1%;p99p100;2006;0.524
+South Africa;Top 1%;p99p100;2007;0.5165000000000001
+South Africa;Top 1%;p99p100;2008;0.4904
+South Africa;Top 1%;p99p100;2009;0.5198
+South Africa;Top 1%;p99p100;2010;0.5598000000000001
+South Africa;Top 1%;p99p100;2011;0.5699000000000001
+South Africa;Top 1%;p99p100;2012;0.5614
+South Africa;Top 1%;p99p100;2013;0.5585
+South Africa;Top 1%;p99p100;2014;0.5493
+South Africa;Top 1%;p99p100;2015;0.5477000000000001
+South Africa;Top 1%;p99p100;2016;0.5332
+South Africa;Top 1%;p99p100;2017;0.5453
+South Africa;Top 1%;p99p100;2018;0.5456
+South Africa;Top 1%;p99p100;2019;0.5451
+South Africa;Top 1%;p99p100;2020;0.546
+South Africa;Top 1%;p99p100;2021;0.5452
+South Africa;Top 1%;p99p100;2022;0.5451
+South Africa;Top 1%;p99p100;2023;0.5448000000000001
+South Africa;Bottom 50%;p0p50;1995;-0.0266
+South Africa;Bottom 50%;p0p50;1996;-0.0281
+South Africa;Bottom 50%;p0p50;1997;-0.0238
+South Africa;Bottom 50%;p0p50;1998;-0.019
+South Africa;Bottom 50%;p0p50;1999;-0.0107
+South Africa;Bottom 50%;p0p50;2000;-0.0071
+South Africa;Bottom 50%;p0p50;2001;-0.0019
+South Africa;Bottom 50%;p0p50;2002;-0.0022
+South Africa;Bottom 50%;p0p50;2003;-0.0003
+South Africa;Bottom 50%;p0p50;2004;0.0024
+South Africa;Bottom 50%;p0p50;2005;0.0015
+South Africa;Bottom 50%;p0p50;2006;-0.0051
+South Africa;Bottom 50%;p0p50;2007;-0.0245
+South Africa;Bottom 50%;p0p50;2008;-0.0463
+South Africa;Bottom 50%;p0p50;2009;-0.0406
+South Africa;Bottom 50%;p0p50;2010;-0.0348
+South Africa;Bottom 50%;p0p50;2011;-0.0336
+South Africa;Bottom 50%;p0p50;2012;-0.0298
+South Africa;Bottom 50%;p0p50;2013;-0.0204
+South Africa;Bottom 50%;p0p50;2014;-0.0147
+South Africa;Bottom 50%;p0p50;2015;-0.0149
+South Africa;Bottom 50%;p0p50;2016;-0.0143
+South Africa;Bottom 50%;p0p50;2017;-0.0113
+South Africa;Bottom 50%;p0p50;2018;-0.0122
+South Africa;Bottom 50%;p0p50;2019;-0.0121
+South Africa;Bottom 50%;p0p50;2020;-0.0121
+South Africa;Bottom 50%;p0p50;2021;-0.0121
+South Africa;Bottom 50%;p0p50;2022;-0.012
+South Africa;Bottom 50%;p0p50;2023;-0.012
+West Asia;Top 1%;p99p100;1995;0.4337
+West Asia;Top 1%;p99p100;1996;0.4368
+West Asia;Top 1%;p99p100;1997;0.4089
+West Asia;Top 1%;p99p100;1998;0.4073
+West Asia;Top 1%;p99p100;1999;0.3958
+West Asia;Top 1%;p99p100;2000;0.4132
+West Asia;Top 1%;p99p100;2001;0.396
+West Asia;Top 1%;p99p100;2002;0.3691
+West Asia;Top 1%;p99p100;2003;0.3667
+West Asia;Top 1%;p99p100;2004;0.3615
+West Asia;Top 1%;p99p100;2005;0.352
+West Asia;Top 1%;p99p100;2006;0.3378
+West Asia;Top 1%;p99p100;2007;0.3376
+West Asia;Top 1%;p99p100;2008;0.3646
+West Asia;Top 1%;p99p100;2009;0.3385
+West Asia;Top 1%;p99p100;2010;0.3222
+West Asia;Top 1%;p99p100;2011;0.3398
+West Asia;Top 1%;p99p100;2012;0.3254
+West Asia;Top 1%;p99p100;2013;0.3248
+West Asia;Top 1%;p99p100;2014;0.3249
+West Asia;Top 1%;p99p100;2015;0.3315
+West Asia;Top 1%;p99p100;2016;0.3367
+West Asia;Top 1%;p99p100;2017;0.3431
+West Asia;Top 1%;p99p100;2018;0.3498
+West Asia;Top 1%;p99p100;2019;0.345
+West Asia;Top 1%;p99p100;2020;0.3566
+West Asia;Top 1%;p99p100;2021;0.3715
+West Asia;Top 1%;p99p100;2022;0.3535
+West Asia;Top 1%;p99p100;2023;0.3652
+West Asia;Bottom 50%;p0p50;1995;0.0182
+West Asia;Bottom 50%;p0p50;1996;0.0183
+West Asia;Bottom 50%;p0p50;1997;0.0209
+West Asia;Bottom 50%;p0p50;1998;0.0235
+West Asia;Bottom 50%;p0p50;1999;0.0242
+West Asia;Bottom 50%;p0p50;2000;0.0207
+West Asia;Bottom 50%;p0p50;2001;0.0212
+West Asia;Bottom 50%;p0p50;2002;0.0245
+West Asia;Bottom 50%;p0p50;2003;0.0228
+West Asia;Bottom 50%;p0p50;2004;0.0241
+West Asia;Bottom 50%;p0p50;2005;0.0248
+West Asia;Bottom 50%;p0p50;2006;0.0238
+West Asia;Bottom 50%;p0p50;2007;0.0249
+West Asia;Bottom 50%;p0p50;2008;0.0222
+West Asia;Bottom 50%;p0p50;2009;0.0255
+West Asia;Bottom 50%;p0p50;2010;0.0279
+West Asia;Bottom 50%;p0p50;2011;0.0253
+West Asia;Bottom 50%;p0p50;2012;0.0275
+West Asia;Bottom 50%;p0p50;2013;0.0277
+West Asia;Bottom 50%;p0p50;2014;0.0283
+West Asia;Bottom 50%;p0p50;2015;0.0285
+West Asia;Bottom 50%;p0p50;2016;0.0288
+West Asia;Bottom 50%;p0p50;2017;0.0286
+West Asia;Bottom 50%;p0p50;2018;0.0278
+West Asia;Bottom 50%;p0p50;2019;0.0283
+West Asia;Bottom 50%;p0p50;2020;0.0247
+West Asia;Bottom 50%;p0p50;2021;0.0237
+West Asia;Bottom 50%;p0p50;2022;0.0232
+West Asia;Bottom 50%;p0p50;2023;0.0222
+Western Europe;Top 1%;p99p100;1995;0.2156
+Western Europe;Top 1%;p99p100;1996;0.2247
+Western Europe;Top 1%;p99p100;1997;0.2301
+Western Europe;Top 1%;p99p100;1998;0.2356
+Western Europe;Top 1%;p99p100;1999;0.2391
+Western Europe;Top 1%;p99p100;2000;0.2404
+Western Europe;Top 1%;p99p100;2001;0.2343
+Western Europe;Top 1%;p99p100;2002;0.2335
+Western Europe;Top 1%;p99p100;2003;0.2281
+Western Europe;Top 1%;p99p100;2004;0.2277
+Western Europe;Top 1%;p99p100;2005;0.2303
+Western Europe;Top 1%;p99p100;2006;0.2312
+Western Europe;Top 1%;p99p100;2007;0.2347
+Western Europe;Top 1%;p99p100;2008;0.2293
+Western Europe;Top 1%;p99p100;2009;0.2261
+Western Europe;Top 1%;p99p100;2010;0.2324
+Western Europe;Top 1%;p99p100;2011;0.2332
+Western Europe;Top 1%;p99p100;2012;0.2358
+Western Europe;Top 1%;p99p100;2013;0.2405
+Western Europe;Top 1%;p99p100;2014;0.2514
+Western Europe;Top 1%;p99p100;2015;0.243
+Western Europe;Top 1%;p99p100;2016;0.2422
+Western Europe;Top 1%;p99p100;2017;0.2442
+Western Europe;Top 1%;p99p100;2018;0.2464
+Western Europe;Top 1%;p99p100;2019;0.2446
+Western Europe;Top 1%;p99p100;2020;0.2424
+Western Europe;Top 1%;p99p100;2021;0.2472
+Western Europe;Top 1%;p99p100;2022;0.2471
+Western Europe;Top 1%;p99p100;2023;0.2482
+Western Europe;Bottom 50%;p0p50;1995;0.0605
+Western Europe;Bottom 50%;p0p50;1996;0.0581
+Western Europe;Bottom 50%;p0p50;1997;0.0555
+Western Europe;Bottom 50%;p0p50;1998;0.0539
+Western Europe;Bottom 50%;p0p50;1999;0.0534
+Western Europe;Bottom 50%;p0p50;2000;0.0525
+Western Europe;Bottom 50%;p0p50;2001;0.0529
+Western Europe;Bottom 50%;p0p50;2002;0.0515
+Western Europe;Bottom 50%;p0p50;2003;0.0522
+Western Europe;Bottom 50%;p0p50;2004;0.0538
+Western Europe;Bottom 50%;p0p50;2005;0.0524
+Western Europe;Bottom 50%;p0p50;2006;0.0501
+Western Europe;Bottom 50%;p0p50;2007;0.0482
+Western Europe;Bottom 50%;p0p50;2008;0.0477
+Western Europe;Bottom 50%;p0p50;2009;0.0433
+Western Europe;Bottom 50%;p0p50;2010;0.0417
+Western Europe;Bottom 50%;p0p50;2011;0.0399
+Western Europe;Bottom 50%;p0p50;2012;0.0394
+Western Europe;Bottom 50%;p0p50;2013;0.0391
+Western Europe;Bottom 50%;p0p50;2014;0.0397
+Western Europe;Bottom 50%;p0p50;2015;0.0416
+Western Europe;Bottom 50%;p0p50;2016;0.0421
+Western Europe;Bottom 50%;p0p50;2017;0.0419
+Western Europe;Bottom 50%;p0p50;2018;0.0427
+Western Europe;Bottom 50%;p0p50;2019;0.0424
+Western Europe;Bottom 50%;p0p50;2020;0.0426
+Western Europe;Bottom 50%;p0p50;2021;0.0422
+Western Europe;Bottom 50%;p0p50;2022;0.0422
+Western Europe;Bottom 50%;p0p50;2023;0.0416

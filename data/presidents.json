@@ -1,0 +1,284 @@
+[
+	{
+		"name": "George Washington",
+		"party": ["Unaffiliated"],
+		"start": "April 30, 1789",
+		"end": "March 4, 1797"
+	},
+	{
+		"name": "John Adams",
+		"party": ["Federalist"],
+		"start": "March 4, 1797",
+		"end": "March 4, 1801"
+	},
+	{
+		"name": "Thomas Jefferson",
+		"party": ["Democratic-Republican"],
+		"start": "March 4, 1801",
+		"end": "March 4, 1809"
+	},
+	{
+		"name": "James Madison",
+		"party": ["Democratic-Republican"],
+		"start": "March 4, 1809",
+		"end": "March 4, 1817"
+	},
+	{
+		"name": "James Monroe",
+		"party": ["Democratic-Republican"],
+		"start": "March 4, 1817",
+		"end": "March 4, 1825"
+	},
+	{
+		"name": "John Quincy Adams",
+		"party": ["Democratic-Republican", "National Republican"],
+		"start": "March 4, 1825",
+		"end": "March 4, 1829"
+	},
+	{
+		"name": "Andrew Jackson",
+		"party": ["Democratic"],
+		"start": "March 4, 1829",
+		"end": "March 4, 1837"
+	},
+	{
+		"name": "Martin Van Buren",
+		"party": ["Democratic"],
+		"start": "March 4, 1837",
+		"end": "March 4, 1841"
+	},
+	{
+		"name": "William Henry Harrison",
+		"party": ["Whig"],
+		"start": "March 4, 1841",
+		"end": "April 4, 1841"
+	},
+	{
+		"name": "John Tyler",
+		"party": ["Whig", "Unaffiliated"],
+		"start": "April 4, 1841",
+		"end": "March 4, 1845"
+	},
+	{
+		"name": "James K. Polk",
+		"party": ["Democratic"],
+		"start": "March 4, 1845",
+		"end": "March 4, 1849"
+	},
+	{
+		"name": "Zachary Taylor",
+		"party": ["Whig"],
+		"start": "March 4, 1849",
+		"end": "July 9, 1850"
+	},
+	{
+		"name": "Millard Fillmore",
+		"party": ["Whig"],
+		"start": "July 9, 1850",
+		"end": "March 4, 1853"
+	},
+	{
+		"name": "Franklin Pierce",
+		"party": ["Democratic"],
+		"start": "March 4, 1853",
+		"end": "March 4, 1857"
+	},
+	{
+		"name": "James Buchanan",
+		"party": ["Democratic"],
+		"start": "March 4, 1857",
+		"end": "March 4, 1861"
+	},
+	{
+		"name": "Abraham Lincoln",
+		"party": ["Republican", "National Union"],
+		"start": "March 4, 1861",
+		"end": "April 15, 1865"
+	},
+	{
+		"name": "Andrew Johnson",
+		"party": ["National Union", "Democratic"],
+		"start": "April 15, 1865",
+		"end": "March 4, 1869"
+	},
+	{
+		"name": "Ulysses S. Grant",
+		"party": ["Republican"],
+		"start": "March 4, 1869",
+		"end": "March 4, 1877"
+	},
+	{
+		"name": "Rutherford B. Hayes",
+		"party": ["Republican"],
+		"start": "March 4, 1877",
+		"end": "March 4, 1881"
+	},
+	{
+		"name": "James A. Garfield",
+		"party": ["Republican"],
+		"start": "March 4, 1881",
+		"end": "September 19, 1881"
+	},
+	{
+		"name": "Chester A. Arthur",
+		"party": ["Republican"],
+		"start": "September 19, 1881",
+		"end": "March 4, 1885"
+	},
+	{
+		"name": "Grover Cleveland",
+		"party": ["Democratic"],
+		"start": "March 4, 1885",
+		"end": "March 4, 1889"
+	},
+	{
+		"name": "Benjamin Harrison",
+		"party": ["Republican"],
+		"start": "March 4, 1889",
+		"end": "March 4, 1893"
+	},
+	{
+		"name": "Grover Cleveland",
+		"party": ["Democratic"],
+		"start": "March 4, 1893",
+		"end": "March 4, 1897"
+	},
+	{
+		"name": "William McKinley",
+		"party": ["Republican"],
+		"start": "March 4, 1897",
+		"end": "September 14, 1901"
+	},
+	{
+		"name": "Theodore Roosevelt",
+		"party": ["Republican"],
+		"start": "September 14, 1901",
+		"end": "March 4, 1909"
+	},
+	{
+		"name": "William Howard Taft",
+		"party": ["Republican"],
+		"start": "March 4, 1909",
+		"end": "March 4, 1913"
+	},
+	{
+		"name": "Woodrow Wilson",
+		"party": ["Democratic"],
+		"start": "March 4, 1913",
+		"end": "March 4, 1921"
+	},
+	{
+		"name": "Warren G. Harding",
+		"party": ["Republican"],
+		"start": "March 4, 1921",
+		"end": "August 2, 1923"
+	},
+	{
+		"name": "Calvin Coolidge",
+		"party": ["Republican"],
+		"start": "August 2, 1923",
+		"end": "March 4, 1929"
+	},
+	{
+		"name": "Herbert Hoover",
+		"party": ["Republican"],
+		"start": "March 4, 1929",
+		"end": "March 4, 1933"
+	},
+	{
+		"name": "Franklin D. Roosevelt",
+		"party": ["Democratic"],
+		"start": "March 4, 1933",
+		"end": "April 12, 1945"
+	},
+	{
+		"name": "Harry S. Truman",
+		"party": ["Democratic"],
+		"start": "April 12, 1945",
+		"end": "January 20, 1953"
+	},
+	{
+		"name": "Dwight D. Eisenhower",
+		"party": ["Republican"],
+		"start": "January 20, 1953",
+		"end": "January 20, 1961"
+	},
+	{
+		"name": "John F. Kennedy",
+		"party": ["Democratic"],
+		"start": "January 20, 1961",
+		"end": "November 22, 1963"
+	},
+	{
+		"name": "Lyndon B. Johnson",
+		"party": ["Democratic"],
+		"start": "November 22, 1963",
+		"end": "January 20, 1969"
+	},
+	{
+		"name": "Richard Nixon",
+		"party": ["Republican"],
+		"start": "January 20, 1969",
+		"end": "August 9, 1974"
+	},
+	{
+		"name": "Gerald Ford",
+		"party": ["Republican"],
+		"start": "August 9, 1974",
+		"end": "January 20, 1977"
+	},
+	{
+		"name": "Jimmy Carter",
+		"party": ["Democratic"],
+		"start": "January 20, 1977",
+		"end": "January 20, 1981"
+	},
+	{
+		"name": "Ronald Reagan",
+		"party": ["Republican"],
+		"start": "January 20, 1981",
+		"end": "January 20, 1989"
+	},
+	{
+		"name": "George H. W. Bush",
+		"party": ["Republican"],
+		"start": "January 20, 1989",
+		"end": "January 20, 1993"
+	},
+	{
+		"name": "Bill Clinton",
+		"party": ["Democratic"],
+		"start": "January 20, 1993",
+		"end": "January 20, 2001"
+	},
+	{
+		"name": "George W. Bush",
+		"party": ["Republican"],
+		"start": "January 20, 2001",
+		"end": "January 20, 2009"
+	},
+	{
+		"name": "Barack Obama",
+		"party": ["Democratic"],
+		"start": "January 20, 2009",
+		"end": "January 20, 2017"
+	},
+	{
+		"name": "Donald Trump",
+		"party": ["Republican"],
+		"start": "January 20, 2017",
+		"end": "January 20, 2021"
+	},
+	{
+		"name": "Joe Biden",
+		"party": ["Democratic"],
+		"start": "January 20, 2021",
+		"end": "January 20, 2025"
+	},
+	{
+		"name": "Donald Trump",
+		"party": ["Republican"],
+		"start": "January 20, 2025",
+		"end": "Incumbent"
+	}
+]

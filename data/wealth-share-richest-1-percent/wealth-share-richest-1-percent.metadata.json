@@ -1,0 +1,47 @@
+{
+  "chart": {
+    "title": "Wealth share of the richest 1%",
+    "subtitle": "The share of wealth owned by the richest 1% of the population. Wealth is defined as the total value of non-financial and financial assets (housing, land, deposits, bonds, equities, etc.) held by households, minus their debts.",
+    "citation": "World Inequality Database (WID.world) (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/wealth-share-richest-1-percent?tab=chart&time=1920..latest&country=USA~OWID_WRL~Asia+%28WID%29~CAN~Europe+%28WID%29~MEX~GBR&v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "China",
+      "France",
+      "Russia",
+      "United Kingdom",
+      "United States",
+      "South Africa",
+      "Finland"
+    ]
+  },
+  "columns": {
+    "Top 1% - Share (Net national wealth) (Estimated)": {
+      "titleShort": "Wealth share of the richest 1%",
+      "titleLong": "Wealth share of the richest 1%",
+      "descriptionShort": "The share of wealth owned by the richest 1%.",
+      "descriptionKey": [
+        "This measure is related to net national wealth, which is the total value of non-financial and financial assets (housing, land, deposits, bonds, equities, etc.) held by households, minus their debts.",
+        "The data is estimated from a combination of household surveys, tax records and national accounts data. This combination can provide a more accurate picture of the incomes of the richest, which tend to be captured poorly in household survey data alone.",
+        "These underlying data sources are not always available. For some countries, observations are extrapolated from data relating to other years, or are sometimes modeled based on data observed in other countries. For more information on this methodology, see this related [technical note](https://wid.world/document/countries-with-regional-income-imputations-on-wid-world-world-inequality-lab-technical-note-2021-15/)."
+      ],
+      "descriptionProcessing": "We extract estimations of Gini, mean, percentile thresholds, averages, and shares via the [`wid` Stata command](https://github.com/thomasblanchet/wid-stata-tool). We calculate threshold and share ratios by dividing different thresholds and shares, respectively.\n\nInterpolations and extrapolations are excluded by using the option `exclude` in the Stata command.",
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "1807-2022",
+      "type": "Numeric",
+      "owidVariableId": 904438,
+      "shortName": "p99p100_share_wealth",
+      "lastUpdated": "2024-05-24",
+      "nextUpdate": "2025-05-24",
+      "citationShort": "World Inequality Database (WID.world) (2024) – with major processing by Our World in Data",
+      "citationLong": "World Inequality Database (WID.world) (2024) – with major processing by Our World in Data. “Wealth share of the richest 1%” [dataset]. World Inequality Database (WID.world), “World Inequality Database (WID)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/904438.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-03-06",
+  "activeFilters": {
+    "country": "USA~OWID_WRL~Asia (WID)~CAN~Europe (WID)~MEX~GBR",
+    "tab": "chart",
+    "time": "1920..latest"
+  }
+}

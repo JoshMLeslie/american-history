@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="refresh" content="0; url=/">
+		<script>
+			(function() {
+					var redirectPath = window.location.pathname + window.location.search + window.location.hash;
+					sessionStorage.setItem("redirectFromExternal", redirectPath);
+					window.location.replace("/");
+			})();
+	</script>
+</head>
+<body>
+</body>
+</html>
