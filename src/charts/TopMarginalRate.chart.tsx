@@ -18,7 +18,7 @@ import './top-marginal-rate.css';
 const presidents = await fetchJSON('/data/presidents.json').then(
 	(r: President[]) => {
 		const startIndex = r.findIndex((prez) => {
-			return new Date(prez.start).getFullYear() >= 1913;
+			return new Date(prez.start).getFullYear() >= 1905;
 		});
 		// slice off out-of-bounds presidents, map date strings to years
 		return r.slice(startIndex, -1).map((prez) => ({
@@ -45,8 +45,8 @@ const TopMarginalRateChart: React.FC = () => {
 	if (!selectedState?.data) {
 		return <></>;
 	}
-	const minDomain = Math.min(...selectedState.data.map((d) => d.year));
-	const maxDomain = Math.max(...selectedState.data.map((d) => d.year));
+	const minDomain = Math.min(...selectedState.data.map((d) => d.year)) - 1;
+	const maxDomain = Math.max(...selectedState.data.map((d) => d.year)) + 1;
 	return (
 		<ResponsiveContainer width="100%" height="100%">
 			<ComposedChart width={800} height={400} data={presidents} barGap={0}>
