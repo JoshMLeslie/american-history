@@ -27,7 +27,7 @@ export const chartMeta: ChartMeta = {
 		description: `
 		This shows how much of the total income went to the 1% and Bottom 50% of earners before taxes or government assistance were factored in, per country, per year.
 		Imagine all the income earned in a country for a given year is put into one big pot, e.g. the USA in 2020.
-		The bottom half of working adults (the 50% of people with the lowest incomes) combined, in 2020, took home about 10.52% of that total income from the pot.
+		The bottom half of working adults (the 50% of people with the lowest incomes) combined, in 2020, took home about 10.52% of that total income from the pot vs 1% of the top earners took home 18.10%.
 		`,
 		id: ChartKeys.PNI,
 	},
