@@ -1,4 +1,4 @@
-import React, { useEffect, useReducer } from 'react';
+import React, { useEffect } from 'react';
 import {
 	Bar,
 	CartesianGrid,
@@ -10,9 +10,13 @@ import {
 	YAxis,
 } from 'recharts';
 import PresidentBar from '../PresidentBar';
-import { President } from '../type/president';
-import { fetchJSON } from '../util';
-import { chartReducer, genLineHSLColor, loadChartData } from './chart.util';
+import { LoadChartConfig } from '../type/chart';
+import {
+	CHART_CONFIG,
+	genLineHSLColor,
+	loadChartData,
+	useChartReducer,
+} from './chart.util';
 
 const COUNTRY_PERCENTILES = [
 	'Eastern Europe-Top 1%',
@@ -83,41 +87,43 @@ const NpwTooltipComponent: React.FC<{
 	);
 };
 
-const presidents = await fetchJSON('/data/presidents.json').then(
-	(r: President[]) => {
-		const startIndex = r.findIndex((prez) => {
-			return new Date(prez.start).getFullYear() >= 1990;
-		});
-		// slice off out-of-bounds presidents, map date strings to years
-		return r.slice(startIndex, -1).map((prez) => ({
-			...prez,
-			start: new Date(prez.start).getFullYear(),
-			end: new Date(prez.end).getFullYear(),
-		}));
-	}
-);
+const CHART_DATA: LoadChartConfig = [
+	{
+		url: '/data/net-personal-wealth/net-personal-wealth.json',
+		label: 'chart',
+	},
+	{
+		url: '/data/presidents.json',
+		label: 'presidents',
+		startYear: 1990,
+	},
+];
 
 const NetPersonalWealthChart: React.FC = () => {
-	const [selectedState, dispatch] = useReducer(chartReducer, {
-		data: null,
-		loading: false,
-		error: null,
-	});
+	const [selectedState, dispatch] = useChartReducer();
 	useEffect(() => {
-		loadChartData(
-			'/data/net-personal-wealth/net-personal-wealth.json',
-			dispatch
-		);
+		loadChartData(CHART_DATA, dispatch);
 	}, []);
 
-	if (!selectedState?.data) {
-		return <></>;
+	if (!selectedState?.data?.chart && selectedState.error) {
+		return <>{selectedState.error}</>;
 	}
-	const minDomain = Math.min(...selectedState.data.map((d) => d.year)) - 1;
-	const maxDomain = Math.max(...selectedState.data.map((d) => d.year)) + 1;
+
+	if (!selectedState?.data || selectedState.loading) {
+		return (
+			<div className="basic-centered" style={{color: 'black'}}>
+				Loading
+			</div>
+		);
+	}
+
+	const minDomain =
+		Math.min(...selectedState.data.chart.map((d) => d.year)) - 1;
+	const maxDomain =
+		Math.max(...selectedState.data.chart.map((d) => d.year)) + 1;
 	return (
 		<ResponsiveContainer width="100%" height="100%">
-			<ComposedChart width={800} height={400} data={presidents} barGap={0}>
+			<ComposedChart data={selectedState.data.presidents} {...CHART_CONFIG}>
 				<CartesianGrid strokeDasharray="3 3" />
 				<XAxis
 					xAxisId="1"
@@ -148,7 +154,7 @@ const NetPersonalWealthChart: React.FC = () => {
 					shape={<PresidentBar minDomain={minDomain} maxDomain={maxDomain} />}
 					yAxisId="1"
 					xAxisId="2"
-					tooltipType='none'
+					tooltipType="none"
 				/>
 				{COUNTRY_PERCENTILES.map((country, i) => {
 					// since country percentile data is adjacent, normalize the color per country
@@ -162,7 +168,7 @@ const NetPersonalWealthChart: React.FC = () => {
 							dataKey={country}
 							stroke={useColor}
 							animationDuration={500}
-							data={selectedState.data as any[]}
+							data={selectedState.data?.chart}
 						/>
 					);
 				})}

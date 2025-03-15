@@ -1,3 +1,5 @@
+import { PresidentDate } from './president';
+
 export enum CHART_ACTION_TYPE {
 	START = 'START',
 	SUCCESS = 'SUCCESS',
@@ -10,7 +12,10 @@ export interface SelectedChart {
 	title: string;
 	description: string;
 	id: string;
-	data?: any[];
+	data: {
+		presidents: PresidentDate[];
+		chart: any[];
+	};
 }
 
 export interface ChartAction {
@@ -24,3 +29,9 @@ export interface ChartComponentState {
 	loading: boolean;
 	error?: null | string;
 }
+
+export type LoadChartConfig = Array<{
+	url: string;
+	label: keyof SelectedChart['data'];
+	startYear?: number; // the year of a president's starting term to search against, `X >= startYear`
+}>;
