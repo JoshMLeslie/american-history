@@ -14,6 +14,7 @@ function App() {
 			<Routes>
 				<Route path="/" element={<AppLayout />}>
 					<Route path="chart">
+						<Route path="home" element={<div>Home</div>} />
 						<Route path="tmr" element={<TopMarginalRateChart />} />
 						<Route path="npw" element={<NetPersonalWealthChart />} />
 						<Route path="*" element={<div>No chart found</div>} />
