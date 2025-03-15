@@ -58,6 +58,7 @@ a.button, button {
 	background-color: #1a1a1a;
 	cursor: pointer;
 	transition: border-color 0.25s;
+	min-width: fit-content;
 }
 a.button:hover,
 button:hover {

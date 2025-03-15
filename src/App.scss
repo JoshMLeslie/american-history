@@ -1,15 +1,20 @@
-#root {
+#app-layout-content {
 	display: flex;
+	height: 100%;
+	width: 100%;
 }
 
 #chart-select-nav {
-	width: 300px;
 	height: 100%;
 	padding: 24px 8px;
 	background: gray;
 	display: flex;
 	flex-direction: column;
 	gap: 8px;
+
+	a.button, button {
+		width: 100%;
+	}
 }
 
 #chart-super-container {
@@ -82,5 +87,18 @@
 
 	&::after {
 		height: 20%;
+	}
+}
+
+#mobile-portrait-warning {
+	display: none;
+	margin: auto;
+}
+body.mobile.portrait {
+	#mobile-portrait-warning {
+		display: block;
+	}
+	#app-layout-content {
+		display: none;
 	}
 }
