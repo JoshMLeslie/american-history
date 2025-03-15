@@ -1,3 +1,4 @@
+import isMobile from 'is-mobile';
 import { useLayoutEffect, useRef, useState } from 'react';
 import { PRESIDENT_TICK_GAP } from './charts/chart.util';
 import { President } from './type/president';
@@ -42,7 +43,7 @@ const PresidentBar = (props: PresidentProps) => {
 		setWidth(yearWidth.current * yearDiff);
 	}, [props]);
 
-	if (!props) {
+	if (!props || !props.name) {
 		return;
 	}
 
@@ -50,6 +51,14 @@ const PresidentBar = (props: PresidentProps) => {
 	const useY = props.background!.y; // same with props.y
 	const useHeight = props.background!.height; // ... and height ...
 
+	const nameSplit = props.name.split(/\s/);
+	const sliceStart = isMobile() ? -1 : 0;
+	const NameEl = () =>
+		nameSplit?.slice(sliceStart).map((name, i) => (
+			<tspan key={name} dx={!!i ? '4' : 0}>
+				{name}
+			</tspan>
+		));
 	return (
 		<g>
 			<rect
@@ -65,8 +74,13 @@ const PresidentBar = (props: PresidentProps) => {
 			/>
 			<g transform={`translate(${useX + (width / 2 - 10)}, 50)`}>
 				<text x={0} y={0} transform="rotate(90)" fontFamily="arial">
-					{props.name} [{props.party!.map((p: string) => p[0]).join(',')}]{' '}
-					{props.start} - {props.end}
+					{<NameEl />}
+					<tspan dx="4">
+						[{props.party!.map((p: string) => p[0]).join(',')}]
+					</tspan>
+					<tspan dx="4">
+						{props.start} - {props.end}
+					</tspan>
 				</text>
 			</g>
 		</g>

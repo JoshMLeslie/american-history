@@ -11,7 +11,7 @@ import {
 } from 'recharts';
 import PresidentBar from '../PresidentBar';
 import { LoadChartConfig } from '../type/chart';
-import { loadChartData, PRESIDENT_TICK_GAP, useChartReducer } from './chart.util';
+import { CHART_CONFIG, loadChartData, PRESIDENT_TICK_GAP, useChartReducer } from './chart.util';
 import './top-marginal-rate.css';
 
 const CHART_DATA: LoadChartConfig = [
@@ -45,7 +45,7 @@ const TopMarginalRateChart: React.FC = () => {
 		<ResponsiveContainer width="100%" height="100%">
 			<ComposedChart
 				data={selectedState.data.presidents}
-				{...{bottom: 40, top: -20}}
+				{...CHART_CONFIG}
 			>
 				<CartesianGrid strokeDasharray="3 3" />
 				<XAxis
