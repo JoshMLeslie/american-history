@@ -48,7 +48,7 @@ function AppLayout() {
 			<div id="chart-select-nav">
 				<Link
 					className="button"
-					to='/'
+					to="/"
 					onClick={() => setChartId(ChartKeys.HOME)}
 				>
 					Home
