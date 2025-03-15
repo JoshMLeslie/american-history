@@ -47,7 +47,7 @@ function AppLayout() {
 		setChartId(id);
 	};
 
-	const ChartSwitcher = () => {
+	const ChartSwitcher = useCallback(() => {
 		switch (chartId) {
 			case 'home':
 				return <div>Home</div>;
@@ -58,7 +58,7 @@ function AppLayout() {
 			default:
 				return <div>Error</div>;
 		}
-	};
+	}, [chartId]);
 
 	return (
 		<>
