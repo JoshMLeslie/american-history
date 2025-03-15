@@ -16,10 +16,16 @@ import './top-marginal-rate.css';
 
 const CHART_DATA: LoadChartConfig = [
 	{
-		url: '/data/top-marginal-tax-rate/top-marginal-rate.json',
+		url:
+			import.meta.env.BASE_URL +
+			'/data/top-marginal-tax-rate/top-marginal-rate.json',
 		label: 'chart',
 	},
-	{url: '/data/presidents.json', label: 'presidents', startYear: 1905},
+	{
+		url: import.meta.env.BASE_URL + '/data/presidents.json',
+		label: 'presidents',
+		startYear: 1905,
+	},
 ];
 
 const TopMarginalRateChart: React.FC = () => {

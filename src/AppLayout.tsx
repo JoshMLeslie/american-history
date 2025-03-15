@@ -1,13 +1,15 @@
 import { useCallback, useEffect, useState } from 'react';
-import { Link, Outlet, useLocation, useNavigate } from 'react-router';
+import { useNavigate, useSearchParams } from 'react-router';
 import './App.scss';
+import NetPersonalWealthChart from './charts/NetPersonalWealth.chart';
+import TopMarginalRateChart from './charts/TopMarginalRate.chart';
 import { ChartKeys, chartMeta } from './data/chart-meta';
 
 function AppLayout() {
 	const navigate = useNavigate();
-	const location = useLocation();
+	const [searchParams, setSearchParams] = useSearchParams();
 
-	const [chartId, setChartId] = useState<string>('home');
+	const [chartId, setChartId] = useState<ChartKeys>(ChartKeys.HOME);
 	const [showMoreBlurb, setShowMoreBlurb] = useState(false);
 	const toggleBlurb = () => setShowMoreBlurb((s) => !s);
 
@@ -35,47 +37,57 @@ function AppLayout() {
 
 	useEffect(() => {
 		// handle direct navigation
-		if (location.pathname) {
-			const locationParts = location.pathname.split('/').filter(Boolean);
-			if (locationParts[0] === 'chart' && !!locationParts[1]) {
-				setChartId(locationParts[1]);
-			}
+		if (searchParams.has('chart')) {
+			setChartId(searchParams.get('chart')! as ChartKeys);
 		}
-	}, [location.pathname]);
+	}, [searchParams]);
+
+	const handleChartId = (id: ChartKeys) => {
+		setSearchParams({chart: id});
+		setChartId(id);
+	};
+
+	const ChartSwitcher = () => {
+		switch (chartId) {
+			case 'home':
+				return <div>Home</div>;
+			case 'tmr':
+				return <TopMarginalRateChart />;
+			case 'npw':
+				return <NetPersonalWealthChart />;
+			default:
+				return <div>Error</div>;
+		}
+	};
 
 	return (
 		<>
-			<div id="mobile-portrait-warning">
+			<div id="mobile-portrait-warning" className='basic-centered'>
 				Please rotate your device to landscape mode to view
 			</div>
 			<div id="app-layout-content">
 				<div id="chart-select-nav">
-					<Link
+					<button
 						className="button"
-						to="/"
-						onClick={() => setChartId(ChartKeys.HOME)}
+						onClick={() => handleChartId(ChartKeys.HOME)}
 					>
 						Home
-					</Link>
-					<Link
+					</button>
+					<button
 						className="button"
-						to={`/chart/${ChartKeys.TMR}`}
-						onClick={() => setChartId(ChartKeys.TMR)}
+						onClick={() => handleChartId(ChartKeys.TMR)}
 					>
 						Top Marginal Rate
-					</Link>
-					<Link
+					</button>
+					<button
 						className="button"
-						to={`/chart/${ChartKeys.NPW}`}
-						onClick={() => setChartId(ChartKeys.NPW)}
+						onClick={() => handleChartId(ChartKeys.NPW)}
 					>
 						Net Personal Wealth
-					</Link>
+					</button>
 				</div>
 				<div id="chart-super-container">
-					<div id="selected-chart">
-						<Outlet />
-					</div>
+					<div id="selected-chart">{<ChartSwitcher />}</div>
 					<div
 						id="selected-chart-blurb"
 						className={showMoreBlurb ? 'expand' : ''}

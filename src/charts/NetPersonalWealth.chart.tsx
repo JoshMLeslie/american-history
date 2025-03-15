@@ -89,11 +89,13 @@ const NpwTooltipComponent: React.FC<{
 
 const CHART_DATA: LoadChartConfig = [
 	{
-		url: '/data/net-personal-wealth/net-personal-wealth.json',
+		url:
+			import.meta.env.BASE_URL +
+			'/data/net-personal-wealth/net-personal-wealth.json',
 		label: 'chart',
 	},
 	{
-		url: '/data/presidents.json',
+		url: import.meta.env.BASE_URL + '/data/presidents.json',
 		label: 'presidents',
 		startYear: 1990,
 	},
