@@ -72,10 +72,8 @@ const NetPersonalWealthChart: React.FC = () => {
 		);
 	}
 
-	const minDomain =
-		Math.min(...selectedState.data.chart.map((d) => d.year)) - 1;
-	const maxDomain =
-		Math.max(...selectedState.data.chart.map((d) => d.year)) + 1;
+	const minDomain = 1994;
+	const maxDomain = 2024;
 	return (
 		<ResponsiveContainer width="100%" height="100%">
 			<ComposedChart data={selectedState.data.presidents} {...CHART_CONFIG}>
