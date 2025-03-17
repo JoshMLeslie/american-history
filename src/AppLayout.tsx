@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useState } from 'react';
 import { useNavigate, useSearchParams } from 'react-router';
 import './App.scss';
+import LifeExpectancyComponent from './charts/LifeExpectancyComponent.chart';
 import NetPersonalWealthChart from './charts/NetPersonalWealth.chart';
 import PretaxNationalIncomeChart from './charts/PretaxNationalIncome.chart';
 import TopMarginalRateChart from './charts/TopMarginalRate.chart';
@@ -50,14 +51,16 @@ function AppLayout() {
 
 	const ChartSwitcher = useCallback(() => {
 		switch (chartId) {
-			case 'home':
+			case ChartKeys.HOME:
 				return <div>Home</div>;
-			case 'tmr':
+			case ChartKeys.TMR:
 				return <TopMarginalRateChart />;
-			case 'npw':
+			case ChartKeys.NPW:
 				return <NetPersonalWealthChart />;
-			case 'pni':
+			case ChartKeys.PNI:
 				return <PretaxNationalIncomeChart />;
+			case ChartKeys.LEVHE:
+				return <LifeExpectancyComponent />;
 			default:
 				return <div>Error</div>;
 		}
@@ -93,6 +96,12 @@ function AppLayout() {
 						onClick={() => handleChartId(ChartKeys.PNI)}
 					>
 						Pretax National Income
+					</button>
+					<button
+						className="button"
+						onClick={() => handleChartId(ChartKeys.LEVHE)}
+					>
+						Life Expectancy
 					</button>
 				</div>
 				<div id="chart-super-container">

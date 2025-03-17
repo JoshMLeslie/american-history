@@ -5,6 +5,7 @@ export enum ChartKeys {
 	TMR = 'tmr',
 	NPW = 'npw',
 	PNI = 'pni',
+	LEVHE = 'levhe',
 }
 
 export const chartMeta: ChartMeta = {
@@ -36,5 +37,11 @@ export const chartMeta: ChartMeta = {
 		title: 'Top Marginal Rate',
 		description: 'A historical look at top marginal income tax rate',
 		id: ChartKeys.TMR,
+	},
+	levhe: {
+		data: null,
+		title: 'Life Expectancy',
+		description: 'todo',
+		id: ChartKeys.LEVHE,
 	},
 };
