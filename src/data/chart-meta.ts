@@ -11,14 +11,15 @@ export const chartMeta: ChartMeta = {
 	home: {
 		data: null,
 		title: 'Select a chart to start',
-		description: '',
+		description:
+			"The charts presented show various data with a backdrop of US presidents, relative to the timeframe of the main chart's data",
 		id: ChartKeys.HOME,
 	},
 	npw: {
 		data: null,
 		title: 'Net Personal Wealth',
 		description:
-			'Net Personal Wealth per year as a percentage per region per percentile.',
+			"This graph shows net personal wealth per year for the top 1% and bottom 50% of a given region's population, expressed as a percentage. This metric reflects the distribution of personal wealth accumulation within specific geographic areas and among different segments of the population. By analyzing wealth as a percentage, it becomes easier to compare the relative financial standing of individuals across various regions and income brackets. In other words, for a given group, it shows their wealth as a percent of the region's total.",
 		id: ChartKeys.NPW,
 	},
 	pni: {
@@ -34,7 +35,8 @@ export const chartMeta: ChartMeta = {
 	tmr: {
 		data: null,
 		title: 'Top Marginal Rate',
-		description: 'A historical look at top marginal income tax rate',
+		description:
+			'A historical look at top marginal income tax rate. This value represents the maximum percent an individual would pay in taxes for that given year on their reported income.',
 		id: ChartKeys.TMR,
 	},
 };
